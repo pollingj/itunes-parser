@@ -3,7 +3,7 @@ iTunes Parser
 [![Build Status](https://travis-ci.org/pollingj/itunes-parser.svg?branch=master)](https://travis-ci.org/pollingj/itunes-parser)
 
 Elixir iTunes XML parser built on erlang's **xmerl** xml parser. It uses [timex](https://github.com/bitwalker/timex) for parsing dates.
-The original code is based on [FeedMe](https://github.com/umurgdk/elixir-feedme).
+The original code is based on [Feedme](https://github.com/umurgdk/elixir-feedme).
 
 ## Setup
 
