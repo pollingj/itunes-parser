@@ -35,7 +35,7 @@ defmodule Feedme.Test.Parsers.RSS2 do
       },
       last_build_date: %Timex.DateTime{
         calendar: :gregorian, day: 16,
-        hour: 9, minute: 54, month: 8, ms: 0, second: 5,
+        hour: 9, minute: 54, month: 8, millisecond: 0, second: 5,
         timezone: %Timex.TimezoneInfo{
           abbreviation: "UTC", from: :min,
           full_name: "UTC",
@@ -46,7 +46,7 @@ defmodule Feedme.Test.Parsers.RSS2 do
       publication_date: %Timex.DateTime{
         calendar: :gregorian,
         day: 15,
-        hour: 9, minute: 54, month: 8, ms: 0, second: 5,
+        hour: 9, minute: 54, month: 8, millisecond: 0, second: 5,
         timezone: %Timex.TimezoneInfo{
           abbreviation: "UTC",
           from: :min,
@@ -74,7 +74,7 @@ defmodule Feedme.Test.Parsers.RSS2 do
       last_build_date: %Timex.DateTime{
         calendar: :gregorian, 
         day: 28,
-        hour: 18, minute: 56, month: 8, ms: 0, second: 0,
+        hour: 18, minute: 56, month: 8, millisecond: 0, second: 0,
         timezone: %Timex.TimezoneInfo{
           abbreviation: "UTC", from: :min,
           full_name: "UTC", offset_std: 0, offset_utc: 0, until: :max
@@ -107,7 +107,7 @@ defmodule Feedme.Test.Parsers.RSS2 do
         hour: 13,
         minute: 43,
         month: 6,
-        ms: 0,
+        millisecond: 0,
         second: 5,
         timezone: %Timex.TimezoneInfo{
           abbreviation: "UTC",
@@ -172,7 +172,7 @@ defmodule Feedme.Test.Parsers.RSS2 do
         },
         last_build_date: %Timex.DateTime{
           calendar: :gregorian, day: 16,
-          hour: 9, minute: 54, month: 8, ms: 0, second: 5,
+          hour: 9, minute: 54, month: 8, millisecond: 0, second: 5,
           timezone: %Timex.TimezoneInfo{
             abbreviation: "UTC", from: :min,
             full_name: "UTC",
@@ -183,7 +183,7 @@ defmodule Feedme.Test.Parsers.RSS2 do
         publication_date: %Timex.DateTime{
           calendar: :gregorian,
           day: 15,
-          hour: 9, minute: 54, month: 8, ms: 0, second: 5,
+          hour: 9, minute: 54, month: 8, millisecond: 0, second: 5,
           timezone: %Timex.TimezoneInfo{
             abbreviation: "UTC",
             from: :min,

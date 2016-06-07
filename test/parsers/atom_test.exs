@@ -30,7 +30,7 @@ defmodule Feedme.Test.Parsers.Atom do
         hour: 18,
         minute: 30,
         month: 12,
-        ms: 0,
+        millisecond: 0,
         second: 2,
         timezone: %Timex.TimezoneInfo{
           abbreviation: "UTC",
@@ -58,7 +58,7 @@ defmodule Feedme.Test.Parsers.Atom do
         hour: 18,
         minute: 30,
         month: 12,
-        ms: 0,
+        millisecond: 0,
         second: 2,
         timezone: %Timex.TimezoneInfo{
           abbreviation: "UTC",
