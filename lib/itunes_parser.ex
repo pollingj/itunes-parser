@@ -1,7 +1,7 @@
-defmodule Feedme do
-  alias Feedme.XmlNode
-  alias Feedme.Parsers.RSS2
-  alias Feedme.Parsers.Atom
+defmodule ITunesParser do
+  alias ITunesParser.XmlNode
+  alias ITunesParser.Parsers.RSS2
+  alias ITunesParser.Parsers.Atom
 
   defmodule Image do
     defstruct title: nil,

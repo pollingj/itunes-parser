@@ -1,8 +1,8 @@
-defmodule Feedme.Test.Parsers.RSS2 do
+defmodule ITunesParser.Test.Parsers.RSS2 do
   use ExUnit.Case
   
-  alias Feedme.XmlNode
-  alias Feedme.Parsers.RSS2
+  alias ITunesParser.XmlNode
+  alias ITunesParser.Parsers.RSS2
 
   setup do
     sample1 = XmlNode.from_file("test/fixtures/rss2/sample1.xml")
@@ -22,13 +22,13 @@ defmodule Feedme.Test.Parsers.RSS2 do
 
   test "parse_meta", %{sample1: sample1, sample2: sample2, big_sample: big_sample} do
     meta = RSS2.parse_meta(sample1)
-    assert meta == %Feedme.MetaData{
+    assert meta == %ITunesParser.MetaData{
       title: "W3Schools Home Page",
       link: "http://www.w3schools.com",
       description: "Free web building tutorials",
       skip_hours: [1,2],
       skip_days: [1,2],
-      image: %Feedme.Image{
+      image: %ITunesParser.Image{
         title: "Test Image",
         description: "test image...",
         url: "http://localhost/image"
@@ -60,12 +60,12 @@ defmodule Feedme.Test.Parsers.RSS2 do
     }
 
     meta = RSS2.parse_meta(sample2)
-    assert meta == %Feedme.MetaData{
+    assert meta == %ITunesParser.MetaData{
       link: "http://www.w3schools.com"
     }
 
     meta = RSS2.parse_meta(big_sample)
-    assert meta == %Feedme.MetaData{
+    assert meta == %ITunesParser.MetaData{
       description: "software is fun",
       link: "http://blog.drewolson.org/",
       title: "collect {thoughts}",
@@ -88,7 +88,7 @@ defmodule Feedme.Test.Parsers.RSS2 do
     entry = XmlNode.first(big_sample, "/rss/channel/item")
             |> RSS2.parse_entry
 
-    assert entry == %Feedme.Entry{
+    assert entry == %ITunesParser.Entry{
       author: nil,
       categories: [ "elixir" ],
       comments: nil,
@@ -96,7 +96,7 @@ defmodule Feedme.Test.Parsers.RSS2 do
       enclosure: nil,
       guid: "9b68a5a7-4ab0-420e-8105-0462357fa1f1",
       link: "http://blog.drewolson.org/elixir-streams/",
-      enclosure: %Feedme.Enclosure{
+      enclosure: %ITunesParser.Enclosure{
         url: "http://www.tutorialspoint.com/mp3s/tutorial.mp3",
         length: "12216320",
         type: "audio/mpeg"
@@ -149,23 +149,23 @@ defmodule Feedme.Test.Parsers.RSS2 do
   test "parse", %{sample1: sample1} do
     feed = RSS2.parse(sample1)
 
-    assert feed == %Feedme.Feed{
+    assert feed == %ITunesParser.Feed{
       entries: [
-        %Feedme.Entry{
+        %ITunesParser.Entry{
           description: "New RSS tutorial on W3Schools",
           link: "http://www.w3schools.com/webservices", 
           title: "RSS Tutorial"},
-        %Feedme.Entry{
+        %ITunesParser.Entry{
           description: "New XML tutorial on W3Schools",
           link: "http://www.w3schools.com/xml", 
           title: "XML Tutorial"}],
-      meta: %Feedme.MetaData{
+      meta: %ITunesParser.MetaData{
         description: "Free web building tutorials",
         link: "http://www.w3schools.com", 
         title: "W3Schools Home Page",
         skip_days: [1,2],
         skip_hours: [1,2],
-        image: %Feedme.Image{
+        image: %ITunesParser.Image{
           title: "Test Image",
           description: "test image...",
           url: "http://localhost/image"

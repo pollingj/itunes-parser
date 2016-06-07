@@ -1,35 +1,36 @@
-Feedme
-======
-[![Build Status](https://travis-ci.org/umurgdk/elixir-feedme.svg?branch=master)](https://travis-ci.org/umurgdk/elixir-feedme)
+iTunes Parser
+=============
+[![Build Status](https://travis-ci.org/pollingj/itunes-parser.svg?branch=master)](https://travis-ci.org/pollingj/itunes-parser)
 
-Elixir RSS/Atom parser built on erlang's **xmerl** xml parser. It uses [timex](https://github.com/bitwalker/timex) for parsing dates.
+Elixir iTunes XML parser built on erlang's **xmerl** xml parser. It uses [timex](https://github.com/bitwalker/timex) for parsing dates.
+The original code is based on [ITunesParser](https://github.com/umurgdk/elixir-ITunesParser).
 
 ## Setup
 
-Add **feedme** into your mix dependencies and applications:
+Add **itunes-parser** into your mix dependencies and applications:
 
 ```elixir
 def application do
-  [applications: [:feedme]]
+  [applications: [:itunes-parser]]
 end
 
 defp deps do
-  [{:feedme, "~> 0.0.1"}]
+  [{:itunes-parser, "~> 0.1.0"}]
 end
 ```
-Then run ```mix deps.get``` to install feedme.
+Then run ```mix deps.get``` to install ITunesParser.
 
 ## Parsing
 
-Feedme expose only one function named ```parse/1```. Parse function detects the feed format as **rss** or **atom**.
+iTunes parser expose only one function named ```parse/1```. Parse function which expects feed format as **rss**.
 
 ```elixir
 {:ok, xml_string} = File.read("some.xml")
-{:ok, feed} = Feedme.parse(xml_string)
+{:ok, feed} = ITunesParser.parse(xml_string)
 
 # Feed
-%Feedme.Feed{
-  meta: %Feedme.MetaData{
+%ITunesParser.Feed{
+  meta: %ITunesParser.MetaData{
     author: nil,
     category: nil,
     cloud: nil,
@@ -50,12 +51,12 @@ Feedme expose only one function named ```parse/1```. Parse function detects the 
     web_master: nil
   }
   entries: [
-    %Feedme.Entry{
+    %ITunesParser.Entry{
       author: nil,
       categories: ["elixir"],
       comments: nil,
       description: "<p>I previously <a href=\"http://blog.drewolson.org/the-value-of-explicitness/\">wrote</a> about explicitness in Elixir. One of my favorite ways the language embraces explicitness is in its distinction between eager and lazy operations on collections. Any time you use the <code>Enum</code> module, you're performing an eager operation. Your collection will be transformed/mapped/enumerated immediately. When you use</p>",
-      enclosure: %Feedme.Enclosure{
+      enclosure: %ITunesParser.Enclosure{
         length: "12216320",
         type: "audio/mpeg",
         url: "http://www.tutorialspoint.com/mp3s/tutorial.mp3"
@@ -68,8 +69,3 @@ Feedme expose only one function named ```parse/1```. Parse function detects the 
   ]
 }
 ```
-
-## ToDo
-
-- [ ] Rss+Atom parser
-- [ ] FeedBurner support

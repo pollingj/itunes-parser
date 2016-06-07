@@ -1,12 +1,12 @@
-defmodule Feedme.Parsers.RSS2 do
-  import Feedme.Parsers.Helpers
+defmodule ITunesParser.Parsers.RSS2 do
+  import ITunesParser.Parsers.Helpers
 
-  alias Feedme.XmlNode
-  alias Feedme.Feed
-  alias Feedme.Entry
-  alias Feedme.MetaData
-  alias Feedme.Image
-  alias Feedme.Enclosure
+  alias ITunesParser.XmlNode
+  alias ITunesParser.Feed
+  alias ITunesParser.Entry
+  alias ITunesParser.MetaData
+  alias ITunesParser.Image
+  alias ITunesParser.Enclosure
 
   def valid?(document) do
     has_version = document

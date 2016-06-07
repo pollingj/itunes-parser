@@ -1,9 +1,9 @@
-defmodule Feedme.Mixfile do
+defmodule ITunesParser.Mixfile do
   use Mix.Project
 
   def project do
-    [app: :feedme,
-     version: "0.0.1",
+    [app: :ITunesParser,
+     version: "0.1.0",
      elixir: "~> 1.0",
      description: "Elixir RSS/Atom parser built on erlang's xmerl xml parser",
      package: package,
@@ -23,7 +23,7 @@ defmodule Feedme.Mixfile do
   def package do
     [
       licenses: ["MIT"],
-      links: %{"GitHub" => "https://github.com/umurgdk/elixir-feedme"}
+      links: %{"GitHub" => "https://github.com/pollingj/iTunes-Parser"}
     ]
   end
 

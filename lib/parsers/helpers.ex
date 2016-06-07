@@ -1,5 +1,5 @@
-defmodule Feedme.Parsers.Helpers do
-  alias Feedme.XmlNode
+defmodule ITunesParser.Parsers.Helpers do
+  alias ITunesParser.XmlNode
 
   def parse_datetime(node), do: parse_datetime(node, "{RFC1123}")
   def parse_datetime(nil, _), do: nil
