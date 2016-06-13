@@ -20,60 +20,22 @@ defmodule ITunesParser.Test.Parsers.RSS2 do
 
   test "parse_meta", %{sample1: sample1, big_sample: big_sample} do
     meta = RSS2.parse_meta(sample1)
-    assert meta == %ITunesParser.MetaData{
+    assert meta == %ITunesParser.Podcast{
       title: "W3Schools Home Page",
       link: "http://www.w3schools.com",
       description: "Free web building tutorials",
-      skip_hours: [1,2],
-      skip_days: [1,2],
       image: %ITunesParser.Image{
         title: "Test Image",
         description: "test image...",
         url: "http://localhost/image"
       },
-      last_build_date: %Timex.DateTime{
-        calendar: :gregorian, day: 16,
-        hour: 9, minute: 54, month: 8, millisecond: 0, second: 5,
-        timezone: %Timex.TimezoneInfo{
-          abbreviation: "UTC", from: :min,
-          full_name: "UTC",
-          offset_std: 0,
-          offset_utc: 0,
-          until: :max},
-        year: 2015},
-      publication_date: %Timex.DateTime{
-        calendar: :gregorian,
-        day: 15,
-        hour: 9, minute: 54, month: 8, millisecond: 0, second: 5,
-        timezone: %Timex.TimezoneInfo{
-          abbreviation: "UTC",
-          from: :min,
-          full_name: "UTC",
-          offset_std: 0,
-          offset_utc: 0,
-          until: :max
-        },
-        year: 2015
-      }
     }
 
     meta = RSS2.parse_meta(big_sample)
-    assert meta == %ITunesParser.MetaData{
+    assert meta == %ITunesParser.Podcast{
       description: "software is fun",
       link: "http://blog.drewolson.org/",
       title: "collect {thoughts}",
-      ttl: "60",
-      generator: "Ghost 0.6",
-      last_build_date: %Timex.DateTime{
-        calendar: :gregorian, 
-        day: 28,
-        hour: 18, minute: 56, month: 8, millisecond: 0, second: 0,
-        timezone: %Timex.TimezoneInfo{
-          abbreviation: "UTC", from: :min,
-          full_name: "UTC", offset_std: 0, offset_utc: 0, until: :max
-        },
-        year: 2015
-      }
     }
   end
 
@@ -81,10 +43,9 @@ defmodule ITunesParser.Test.Parsers.RSS2 do
     entry = XmlNode.first(big_sample, "/rss/channel/item")
             |> RSS2.parse_entry
 
-    assert entry == %ITunesParser.Entry{
+    assert entry == %ITunesParser.Episode{
       author: nil,
       categories: [ "elixir" ],
-      comments: nil,
       description: "<p>I previously <a href=\"http://blog.drewolson.org/the-value-of-explicitness/\">wrote</a> about explicitness in Elixir. One of my favorite ways the language embraces explicitness is in its distinction between eager and lazy operations on collections. Any time you use the <code>Enum</code> module, you're performing an eager operation. Your collection will be transformed/mapped/enumerated immediately. When you use</p>",
       enclosure: nil,
       guid: "9b68a5a7-4ab0-420e-8105-0462357fa1f1",
@@ -112,7 +73,6 @@ defmodule ITunesParser.Test.Parsers.RSS2 do
         },
         year: 2015
       },
-      source: nil,
       title: "Elixir Streams"
     }
   end
@@ -134,20 +94,18 @@ defmodule ITunesParser.Test.Parsers.RSS2 do
 
     assert feed == %ITunesParser.Feed{
       entries: [
-        %ITunesParser.Entry{
+        %ITunesParser.Episode{
           description: "New RSS tutorial on W3Schools",
           link: "http://www.w3schools.com/webservices", 
           title: "RSS Tutorial"},
-        %ITunesParser.Entry{
+        %ITunesParser.Episode{
           description: "New XML tutorial on W3Schools",
           link: "http://www.w3schools.com/xml", 
           title: "XML Tutorial"}],
-      meta: %ITunesParser.MetaData{
+      meta: %ITunesParser.Podcast{
         description: "Free web building tutorials",
         link: "http://www.w3schools.com", 
         title: "W3Schools Home Page",
-        skip_days: [1,2],
-        skip_hours: [1,2],
         image: %ITunesParser.Image{
           title: "Test Image",
           description: "test image...",
@@ -163,20 +121,6 @@ defmodule ITunesParser.Test.Parsers.RSS2 do
             offset_utc: 0,
             until: :max},
           year: 2015},
-        publication_date: %Timex.DateTime{
-          calendar: :gregorian,
-          day: 15,
-          hour: 9, minute: 54, month: 8, millisecond: 0, second: 5,
-          timezone: %Timex.TimezoneInfo{
-            abbreviation: "UTC",
-            from: :min,
-            full_name: "UTC",
-            offset_std: 0,
-            offset_utc: 0,
-            until: :max
-          },
-          year: 2015
-        }
       }
     }
   end

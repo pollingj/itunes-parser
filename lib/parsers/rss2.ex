@@ -3,8 +3,8 @@ defmodule ITunesParser.Parsers.RSS2 do
 
   alias ITunesParser.XmlNode
   alias ITunesParser.Feed
-  alias ITunesParser.Entry
-  alias ITunesParser.MetaData
+  alias ITunesParser.Episode
+  alias ITunesParser.Podcast
   alias ITunesParser.Image
   alias ITunesParser.Enclosure
 
@@ -27,32 +27,21 @@ defmodule ITunesParser.Parsers.RSS2 do
     channel = XmlNode.first(document, "/rss/channel")
 
     # image like fields needs special parsing
-    ignore_fields = [:image, :skip_hours, :skip_days, :publication_date, :last_build_date]
-    metadata = parse_into_struct(channel, %MetaData{}, ignore_fields)
+    ignore_fields = [:image, :skip_hours, :skip_days, :publication_date]
+    podcast = parse_into_struct(channel, %Podcast{}, ignore_fields)
 
     # Parse other fields
     image = XmlNode.first(channel, "image") 
             |> parse_into_struct(%Image{})
 
-    skip_hours = XmlNode.all_try(channel, ["skipHours/hour", "skiphours/hour"])
-                 |> Enum.map(&XmlNode.integer/1)
-
-    skip_days = XmlNode.all_try(channel, ["skipDays/day", "skipdays/day"])
-                |> Enum.map(&XmlNode.integer/1)
 
     publication_date = XmlNode.first_try(channel, ["pubDate", "publicationDate"]) 
                        |> parse_datetime
 
-    last_build_date = XmlNode.first_try(channel, ["lastBuildDate", "lastbuildDate"]) 
-                      |> parse_datetime
 
-    %{metadata | 
-      last_build_date: last_build_date,
+    %{podcast | 
       image: image,
-      skip_hours: skip_hours,
-      skip_days: skip_days,
       publication_date: publication_date,
-      last_build_date: last_build_date
     }
   end
 
@@ -62,7 +51,7 @@ defmodule ITunesParser.Parsers.RSS2 do
 
   def parse_entry(node) do
     ignore_fields = [:categories, :enclosure, :publication_date]
-    entry = parse_into_struct(node, %Entry{}, ignore_fields)
+    entry = parse_into_struct(node, %Episode{}, ignore_fields)
 
     categories = XmlNode.children_map(node, "category", &XmlNode.text/1)
 
