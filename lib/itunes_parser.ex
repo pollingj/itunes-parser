@@ -18,39 +18,41 @@ defmodule ITunesParser do
               type: nil
   end
 
-  defmodule MetaData do
+  defmodule Podcast do
     defstruct title: nil,
+              sub_title: nil,
               link: nil,
               description: nil,
+              summary: nil,
               author: nil,
               language: nil,
               copyright: nil,
-              publication_date: nil,
               last_build_date: nil,
-              generator: nil,
               category: nil,
-              rating: nil,
-              docs: nil,
-              cloud: nil,
-              ttl: nil,
-              managing_editor: nil,
-              web_master: nil,
-              skip_hours: [],
-              skip_days: [],
               image: nil
   end
 
-  defmodule Entry do
+  defmodule Episode do
     defstruct title: nil,
+              sub_title: nil,
+              image: nil,
               link: nil,
               description: nil,
               author: nil,
               categories: [],
-              comments: nil,
+              keywords: [],
+              summary: nil,
               enclosure: nil,
               guid: nil,
+              duration: nil,
               publication_date: nil,
-              source: nil
+              explicit: nil
+  end
+
+  defmodule Atom do
+    defstruct link: nil,
+              rel: nil,
+              type: nil
   end
 
   defmodule Feed do
@@ -73,7 +75,6 @@ defmodule ITunesParser do
   defp detect_parser({:ok, document}) do
     cond do
       RSS2.valid?(document) -> {:ok, RSS2, document}
-      Atom.valid?(document) -> {:ok, Atom, document}
       true -> {:error, "Feed format not valid"}
     end
   end
