@@ -6,21 +6,19 @@ defmodule ITunesParser.Test.Parsers.RSS2 do
 
   setup do
     sample1 = XmlNode.from_file("test/fixtures/rss2/sample1.xml")
-    sample2 = XmlNode.from_file("test/fixtures/rss2/sample2.xml")
     big_sample = XmlNode.from_file("test/fixtures/rss2/bigsample.xml")
 
-    {:ok, [sample1: sample1, sample2: sample2, big_sample: big_sample]}
+    {:ok, [sample1: sample1, big_sample: big_sample]}
   end
 
-  test "valid?", %{sample1: sample1, sample2: sample2} do
+  test "valid?", %{sample1: sample1} do
     wrong_doc = XmlNode.from_file("test/fixtures/wrong.xml")
 
     assert RSS2.valid?(sample1) == true
-    assert RSS2.valid?(sample2) == true
     assert RSS2.valid?(wrong_doc) == false
   end
 
-  test "parse_meta", %{sample1: sample1, sample2: sample2, big_sample: big_sample} do
+  test "parse_meta", %{sample1: sample1, big_sample: big_sample} do
     meta = RSS2.parse_meta(sample1)
     assert meta == %ITunesParser.MetaData{
       title: "W3Schools Home Page",
@@ -57,11 +55,6 @@ defmodule ITunesParser.Test.Parsers.RSS2 do
         },
         year: 2015
       }
-    }
-
-    meta = RSS2.parse_meta(sample2)
-    assert meta == %ITunesParser.MetaData{
-      link: "http://www.w3schools.com"
     }
 
     meta = RSS2.parse_meta(big_sample)
@@ -124,7 +117,7 @@ defmodule ITunesParser.Test.Parsers.RSS2 do
     }
   end
 
-  test "parse_entries", %{sample1: sample1, sample2: sample2} do
+  test "parse_entries", %{sample1: sample1} do
     [item1, item2] = RSS2.parse_entries(sample1)
     
     assert item1.title == "RSS Tutorial"
@@ -134,16 +127,6 @@ defmodule ITunesParser.Test.Parsers.RSS2 do
     assert item2.title == "XML Tutorial"
     assert item2.link == "http://www.w3schools.com/xml"
     assert item2.description == "New XML tutorial on W3Schools"
-
-    [item1, item2] = RSS2.parse_entries(sample2)
-    
-    assert item1.title == nil
-    assert item1.link == "http://www.w3schools.com/webservices"
-    assert item1.description == nil
-
-    assert item2.title == nil
-    assert item2.link == "http://www.w3schools.com/xml"
-    assert item2.description == nil
   end
 
   test "parse", %{sample1: sample1} do
