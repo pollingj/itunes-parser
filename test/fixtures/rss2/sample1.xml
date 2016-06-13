@@ -1,33 +1,113 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<rss version="2.0">
-    <channel>
-        <title>W3Schools Home Page</title>
-        <link>http://www.w3schools.com</link>
-        <description>Free web building tutorials</description>
-        <skipHours>
-            <hour>1</hour>
-            <hour>2</hour>
-        </skipHours>
-        <skipDays>
-            <day>1</day>
-            <day>2</day>
-        </skipDays>
-        <pubDate>Sat, 15 Aug 2015 09:54:05 +0000</pubDate>
-        <lastBuildDate>Sat, 16 Aug 2015 09:54:05 +0000</lastBuildDate>
-        <image>
-            <title>Test Image</title>
-            <description>test image...</description>
-            <url>http://localhost/image</url>
-        </image>
-        <item>
-            <title>RSS Tutorial</title>
-            <link>http://www.w3schools.com/webservices</link>
-            <description>New RSS tutorial on W3Schools</description>
-        </item>
-        <item>
-            <title>XML Tutorial</title>
-            <link>http://www.w3schools.com/xml</link>
-            <description>New XML tutorial on W3Schools</description>
-        </item>
-    </channel>
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
+xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0"
+>
+<channel>
+	<title>Podcasters&#039; Roundtable - Podcasters Discussing Podcasting</title>
+	<atom:link href="http://podcastersroundtable.com/feed/podcast/" rel="self" type="application/rss+xml" />
+	<link>http://podcastersroundtable.com</link>
+	<description>Podcasters talking about issues that affect podcast producers. A podcast about podcasting.</description>
+	<lastBuildDate>Tue, 31 May 2016 07:11:17 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	
+<!-- podcast_generator="Blubrry PowerPress/6.3.3" mode="advanced" -->
+	<itunes:new-feed-url>http://podcastersroundtable.com/feed/podcast/</itunes:new-feed-url>
+	<itunes:summary>Podcasters&#039; Roundtable is a rotating panel of podcasters who debate issues facing podcasters and podcasting as a media format. Each Roundtable features a new podcaster from the community of listeners to talk less about the how-to and more about the subjective issues facing podcast producers. This is the audio only feed taken from the originally aired live Google Hangout On-Air.</itunes:summary>
+	<itunes:author>Ray Ortega - Learn how to podcast</itunes:author>
+	<itunes:image href="http://podcastersroundtable.com/wp-content/uploads/2012/07/Podcasters_Roundtable_ITUNES_image1400x1400.jpg" />
+	<itunes:owner>
+		<itunes:name>Ray Ortega - Learn how to podcast</itunes:name>
+		<itunes:email>Ray@podcastersroundtable.com</itunes:email>
+	</itunes:owner>
+	<managingEditor>Ray@podcastersroundtable.com (Ray Ortega - Learn how to podcast)</managingEditor>
+	<copyright>Ray Ortega 2015</copyright>
+	<itunes:subtitle>Podcasters debating the issues that affect podcast producers.</itunes:subtitle>
+	<image>
+		<title>Podcasters&#039; Roundtable - Podcasters Discussing Podcasting</title>
+		<url>http://podcastersroundtable.com/wp-content/uploads/2012/07/Podcasters_Roundtable_ITUNES_image1400x1400.jpg</url>
+		<link>http://podcastersroundtable.com</link>
+	</image>
+	<itunes:category text="Technology">
+		<itunes:category text="Podcasting" />
+	</itunes:category>
+	<itunes:category text="Education">
+		<itunes:category text="Training" />
+	</itunes:category>
+	<googleplay:email>ray@podcastersroundtable.com</googleplay:email>
+	<googleplay:description>Podcasters&#039; Roundtable is a rotating panel of podcasters who discuss the issues that podcast producers face on a daily basis. 
+
+Each Roundtable features a new podcaster from the podcasting community (hopefully that&#039;s you!) to share their experience as a podcast producer who is looking to better their show and/or grow the medium of podcasting. 
+
+We focus on one specific topic related to podcasters and discuss how we all deal with that topic in our own productions. 
+
+Podcasters&#039; Roundtable is recorded live via Google Hangouts On-Air and specially produced for delivery as an audio podcast. </googleplay:description>
+	<googleplay:category text="Technology" />
+	<rawvoice:rating>TV-G</rawvoice:rating>
+	<rawvoice:location>California</rawvoice:location>
+	<rawvoice:frequency>bi-weekly</rawvoice:frequency>
+	<item>
+		<title>PR072: Work/Life/Podcast Balance</title>
+		<link>http://podcastersroundtable.com/pr072-worklifepodcast-balance/</link>
+		<pubDate>Tue, 31 May 2016 07:06:57 +0000</pubDate>
+		<guid isPermaLink="false">http://podcastersroundtable.com/?p=688</guid>
+		<comments>http://podcastersroundtable.com/pr072-worklifepodcast-balance/#respond</comments>
+		<dc:creator>Ray</dc:creator>
+		<category><![CDATA[podcast]]></category>
+		<category><![CDATA[classy little podcast]]></category>
+		<category><![CDATA[family]]></category>
+		<category><![CDATA[podcasters]]></category>
+		<category><![CDATA[podcasters roundtable]]></category>
+		<category><![CDATA[podcasting]]></category>
+		<category><![CDATA[work life balance]]></category>
+		<description>For most podcasters, recording is what happens with whatever time is left after work and family. This can be a big challenge especially for the long haul. How do you fit podcasting into your life?
+
+Join Ray Ortega, +Daniel J. Lewis +Dave Jackson, and +Emily Peck Prokop to discuss balancing the demands of podcasting with all of life&#039;s other responsibilities.
+
+You can subscribe to the RSS mailing list (http://eepurl.com/GnBwr) to get new Rounds delivered to your inbox automatically.
+
+Sign up to appear on a future Podcasters&#039; Roundtable!
+
+
+Thanks and I can&#039;t wait to see you on a future Roundtable!
+Subscribe to Podcasters&#039; Roundtable</description>
+		<content:encoded><![CDATA[<p><iframe src="https://www.youtube.com/embed/2PLkouUjxsg?rel=0" width="720" height="405" frameborder="0" allowfullscreen="allowfullscreen"></iframe></p>
+<div class="Ct">
+<p>For most podcasters, recording is what happens with whatever time is left after work and family. This can be a big challenge especially for the long haul. How do you fit podcasting into your life?</p>
+<p><span style="word-spacing: normal;">Join </span><a style="line-height: 20px; word-spacing: normal;" href="https://plus.google.com/u/0/+RayOrtega" target="_blank">Ray Ortega</a><span style="word-spacing: normal;">, </span><span class="proflinkWrapper" style="word-spacing: normal;"><span class="proflinkPrefix">+</span><a class="proflink aaTEdf" href="https://plus.google.com/100309749866559941116" target="_blank">Daniel J. Lewis</a></span><span style="word-spacing: normal;"> </span><a style="line-height: 20px; word-spacing: normal;" href="http://schoolofpodcasting.com/" target="_blank">+Dave Jackson</a><span style="word-spacing: normal;">, and <a href="http://www.classylittlepodcast.com/" target="_blank">+Emily Peck Prokop</a></span><span style="word-spacing: normal;"> to discuss balancing the demands of podcasting with all of life&#8217;s other responsibilities.</span></p>
+<p>You can subscribe to the RSS mailing list (<a class="ot-anchor aaTEdf" dir="ltr" href="http://eepurl.com/GnBwr" target="_blank" rel="nofollow">http://eepurl.com/GnBwr</a>) to get new Rounds delivered to your inbox automatically.</p>
+<p><a href="http://eepurl.com/GmXGf">Sign up to appear</a> on a future Podcasters&#8217; Roundtable!</p>
+</div>
+<p>Thanks and I can&#8217;t wait to see you on a future Roundtable!</p>
+<h3>Subscribe to Podcasters&#8217; Roundtable</h3>
+<p><a href="https://itunes.apple.com/us/podcast/podcasters-roundtable-podcasters/id548946224?mt=2&amp;uo=4&amp;at=10lqIg"><img title="Podcasters' Roundtable on iTunes" src="http://thepodcastersstudio.com/wp-content/uploads/2010/03/itunesSubscribe.png" alt="itunes" /></a><a href="http://www.stitcher.com/s?fid=32335&amp;refid=stpr" target="_blank"><img title="Podcasters' Roundtable on Stitcher" src="http://thepodcastersstudio.com/wp-content/uploads/2013/01/stitcherlogocolor.png" alt="Stitcher" width="25" height="25" /></a><a title="The Podcasters Studio Podcast" href="http://podcastersroundtable.com/feed/podcast/ " target="_blank"><img title="Podcasters' Roundtable via RSS" src="http://thepodcastersstudio.com/wp-content/uploads/2010/03/rssSubscribe.png" alt="RSS" width="35" height="25" /></a><a href="http://subscribe.getmiro.com/?type=audio&amp;url1=http://feeds.feedburner.com/podcastersroundtable" target="_blank"><img title="Podcasters' Roundtable on Miro" src="http://thepodcastersstudio.com/wp-content/uploads/2010/03/miroButton.png" alt="Miro" /></a><a href="https://goo.gl/app/playmusic?ibi=com.google.PlayMusic&#038;isi=691797987&#038;ius=googleplaymusic&#038;link=https://play.google.com/music/m/I63jihrawnzjxi6ww7w56o6vhwa?t%3DPodcasters'_Roundtable_-_Podcasters_Discussing_Podcasting"><img style="padding-left: 4px; padding-right: 0;" title="PR on Google Play Music" src="http://thepodcastersstudio.com/wp-content/uploads/2016/05/gplaymu2.jpg" alt="Google Play Music" width="30" height="30" /></a><a href="http://subscribeonandroid.com/podcastersroundtable.com/feed/podcast"><img style="padding-left: 8px; padding-right: 10px;" title="TPS on Android" src="http://thepodcastersstudio.com/wp-content/uploads/2015/05/Android30x35.png" alt="Android" width="" height="" /></a></p>
+]]></content:encoded>
+		<wfw:commentRss>http://podcastersroundtable.com/pr072-worklifepodcast-balance/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		<enclosure url="http://traffic.libsyn.com/thepodcastersstudio/PR072.mp3" length="39251737" type="audio/mpeg" />
+		<itunes:subtitle>For most podcasters, recording is what happens with whatever time is left after work and family. This can be a big challenge especially for the long haul. How do you fit podcasting into your life? Join Ray Ortega, +Daniel J. Lewis +Dave Jackson,</itunes:subtitle>
+		<itunes:summary><![CDATA[<br />
+<br />
+For most podcasters, recording is what happens with whatever time is left after work and family. This can be a big challenge especially for the long haul. How do you fit podcasting into your life?<br />
+Join <a style="line-height: 20px; word-spacing: normal;" href="https://plus.google.com/u/0/+RayOrtega" target="_blank">Ray Ortega</a>, +<a class="proflink aaTEdf" href="https://plus.google.com/100309749866559941116" target="_blank">Daniel J. Lewis</a> <a style="line-height: 20px; word-spacing: normal;" href="http://schoolofpodcasting.com/" target="_blank">+Dave Jackson</a>, and <a href="http://www.classylittlepodcast.com/" target="_blank">+Emily Peck Prokop</a> to discuss balancing the demands of podcasting with all of life&#8217;s other responsibilities.<br />
+You can subscribe to the RSS mailing list (<a class="ot-anchor aaTEdf" dir="ltr" href="http://eepurl.com/GnBwr" target="_blank" rel="nofollow">http://eepurl.com/GnBwr</a>) to get new Rounds delivered to your inbox automatically.<br />
+<a href="http://eepurl.com/GmXGf">Sign up to appear</a> on a future Podcasters&#8217; Roundtable!<br />
+<br />
+Thanks and I can&#8217;t wait to see you on a future Roundtable!<br />
+Subscribe to Podcasters&#8217; Roundtable<br />
+<a href="https://itunes.apple.com/us/podcast/podcasters-roundtable-podcasters/id548946224?mt=2&amp;uo=4&amp;at=10lqIg"></a><a href="http://www.stitcher.com/s?fid=32335&amp;refid=stpr" target="_blank"></a><a title="The Podcasters Studio Podcast" href="http://podcastersroundtable.com/feed/podcast/ " target="_blank"></a><a href="http://subscribe.getmiro.com/?type=audio&amp;url1=http://feeds.feedburner.com/podcastersroundtable" target="_blank"></a><a href="https://goo.gl/app/playmusic?ibi=com.google.PlayMusic&#038;isi=691797987&#038;ius=googleplaymusic&#038;link=https://play.google.com/music/m/I63jihrawnzjxi6ww7w56o6vhwa?t%3DPodcasters'_Roundtable_-_Podcasters_Discussing_Podcasting"></a><a href="http://subscribeonandroid.com/podcastersroundtable.com/feed/podcast"></a><br />]]></itunes:summary>
+		<itunes:author>Ray Ortega - Learn how to podcast</itunes:author>
+		<itunes:image href="http://podcastersroundtable.com/wp-content/uploads/2012/07/Podcasters_Roundtable_ITUNES_image1400x1400.jpg" />
+		<itunes:duration>54:21</itunes:duration>
+		</item>
+</channel>
 </rss>
