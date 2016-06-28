@@ -20,19 +20,19 @@ defmodule ITunesParser.Parsers.RSS2 do
   end
 
   def parse(document) do
-    %Feed{meta: parse_meta(document), entries: parse_entries(document)}
+    %Feed{meta: parse_podcast(document), entries: parse_entries(document)}
   end
 
-  def parse_meta(document) do
+  def parse_podcast(document) do
     channel = XmlNode.first(document, "/rss/channel")
 
     # image like fields needs special parsing
-    ignore_fields = [:image, :skip_hours, :skip_days, :publication_date]
+    ignore_fields = ["itunes:image"]
     podcast = parse_into_struct(channel, %Podcast{}, ignore_fields)
 
     # Parse other fields
-    image = XmlNode.first(channel, "image") 
-            |> parse_into_struct(%Image{})
+    image = XmlNode.first(channel, "itunes:image") 
+            |> parse_attributes_into_struct(%Image{})
 
 
     publication_date = XmlNode.first_try(channel, ["pubDate", "publicationDate"]) 
@@ -41,7 +41,6 @@ defmodule ITunesParser.Parsers.RSS2 do
 
     %{podcast | 
       image: image,
-      publication_date: publication_date,
     }
   end
 

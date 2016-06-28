@@ -6,10 +6,7 @@ defmodule ITunesParser do
   defmodule Image do
     defstruct title: nil,
               url: nil,
-              link: nil,
-              width: nil,
-              height: nil,
-              description: nil
+              href: nil
   end
 
   defmodule Enclosure do
@@ -27,7 +24,6 @@ defmodule ITunesParser do
               author: nil,
               language: nil,
               copyright: nil,
-              last_build_date: nil,
               category: nil,
               image: nil
   end

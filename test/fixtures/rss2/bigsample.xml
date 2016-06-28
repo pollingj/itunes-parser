@@ -11,7 +11,7 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
 xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0"
 >
 <channel>
-	<title>Podcasters&#039; Roundtable - Podcasters Discussing Podcasting</title>
+	<title>Podcasters Roundtable - Podcasters Discussing Podcasting</title>
 	<atom:link href="http://podcastersroundtable.com/feed/podcast/" rel="self" type="application/rss+xml" />
 	<link>http://podcastersroundtable.com</link>
 	<description>Podcasters talking about issues that affect podcast producers. A podcast about podcasting.</description>
@@ -22,7 +22,7 @@ xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0"
 	
 <!-- podcast_generator="Blubrry PowerPress/6.3.3" mode="advanced" -->
 	<itunes:new-feed-url>http://podcastersroundtable.com/feed/podcast/</itunes:new-feed-url>
-	<itunes:summary>Podcasters&#039; Roundtable is a rotating panel of podcasters who debate issues facing podcasters and podcasting as a media format. Each Roundtable features a new podcaster from the community of listeners to talk less about the how-to and more about the subjective issues facing podcast producers. This is the audio only feed taken from the originally aired live Google Hangout On-Air.</itunes:summary>
+	<itunes:summary>Podcasters Roundtable is a rotating panel of podcasters who debate issues facing podcasters and podcasting as a media format. Each Roundtable features a new podcaster from the community of listeners to talk less about the how-to and more about the subjective issues facing podcast producers. This is the audio only feed taken from the originally aired live Google Hangout On-Air.</itunes:summary>
 	<itunes:author>Ray Ortega - Learn how to podcast</itunes:author>
 	<itunes:image href="http://podcastersroundtable.com/wp-content/uploads/2012/07/Podcasters_Roundtable_ITUNES_image1400x1400.jpg" />
 	<itunes:owner>
@@ -33,7 +33,7 @@ xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0"
 	<copyright>Ray Ortega 2015</copyright>
 	<itunes:subtitle>Podcasters debating the issues that affect podcast producers.</itunes:subtitle>
 	<image>
-		<title>Podcasters&#039; Roundtable - Podcasters Discussing Podcasting</title>
+		<title>Podcasters Roundtable - Podcasters Discussing Podcasting</title>
 		<url>http://podcastersroundtable.com/wp-content/uploads/2012/07/Podcasters_Roundtable_ITUNES_image1400x1400.jpg</url>
 		<link>http://podcastersroundtable.com</link>
 	</image>
@@ -44,13 +44,13 @@ xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0"
 		<itunes:category text="Training" />
 	</itunes:category>
 	<googleplay:email>ray@podcastersroundtable.com</googleplay:email>
-	<googleplay:description>Podcasters&#039; Roundtable is a rotating panel of podcasters who discuss the issues that podcast producers face on a daily basis. 
+	<googleplay:description>Podcasters Roundtable is a rotating panel of podcasters who discuss the issues that podcast producers face on a daily basis. 
 
-Each Roundtable features a new podcaster from the podcasting community (hopefully that&#039;s you!) to share their experience as a podcast producer who is looking to better their show and/or grow the medium of podcasting. 
+Each Roundtable features a new podcaster from the podcasting community (hopefully thats you!) to share their experience as a podcast producer who is looking to better their show and/or grow the medium of podcasting. 
 
 We focus on one specific topic related to podcasters and discuss how we all deal with that topic in our own productions. 
 
-Podcasters&#039; Roundtable is recorded live via Google Hangouts On-Air and specially produced for delivery as an audio podcast. </googleplay:description>
+Podcasters Roundtable is recorded live via Google Hangouts On-Air and specially produced for delivery as an audio podcast. </googleplay:description>
 	<googleplay:category text="Technology" />
 	<rawvoice:rating>TV-G</rawvoice:rating>
 	<rawvoice:location>California</rawvoice:location>
@@ -71,15 +71,15 @@ Podcasters&#039; Roundtable is recorded live via Google Hangouts On-Air and spec
 		<category><![CDATA[work life balance]]></category>
 		<description>For most podcasters, recording is what happens with whatever time is left after work and family. This can be a big challenge especially for the long haul. How do you fit podcasting into your life?
 
-Join Ray Ortega, +Daniel J. Lewis +Dave Jackson, and +Emily Peck Prokop to discuss balancing the demands of podcasting with all of life&#039;s other responsibilities.
+Join Ray Ortega, +Daniel J. Lewis +Dave Jackson, and +Emily Peck Prokop to discuss balancing the demands of podcasting with all of lifes other responsibilities.
 
 You can subscribe to the RSS mailing list (http://eepurl.com/GnBwr) to get new Rounds delivered to your inbox automatically.
 
-Sign up to appear on a future Podcasters&#039; Roundtable!
+Sign up to appear on a future Podcasters Roundtable!
 
 
-Thanks and I can&#039;t wait to see you on a future Roundtable!
-Subscribe to Podcasters&#039; Roundtable</description>
+Thanks and I cant wait to see you on a future Roundtable!
+Subscribe to Podcasters Roundtable</description>
 		<content:encoded><![CDATA[<p><iframe src="https://www.youtube.com/embed/2PLkouUjxsg?rel=0" width="720" height="405" frameborder="0" allowfullscreen="allowfullscreen"></iframe></p>
 <div class="Ct">
 <p>For most podcasters, recording is what happens with whatever time is left after work and family. This can be a big challenge especially for the long haul. How do you fit podcasting into your life?</p>
@@ -120,15 +120,15 @@ Subscribe to Podcasters&#8217; Roundtable<br />
 		<category><![CDATA[advertising]]></category>
 		<category><![CDATA[itunes]]></category>
 		<category><![CDATA[new and noteworthy]]></category>
-		<description>Join Ray Ortega, +Daniel J. Lewis +Dave Jackson, +George Whittam and +Ian Robinson to discuss whatever the Roundtabler&#039;s want including iTunes New and Noteworthy, audio vs video podcasting, advertising, &quot;simple&quot; podcast gear setups and more.
+		<description>Join Ray Ortega, +Daniel J. Lewis +Dave Jackson, +George Whittam and +Ian Robinson to discuss whatever the Roundtablers want including iTunes New and Noteworthy, audio vs video podcasting, advertising, &quot;simple&quot; podcast gear setups and more.
 
 You can subscribe to the RSS mailing list (http://eepurl.com/GnBwr) to get new Rounds delivered to your inbox automatically.
 
-Sign up to appear on a future Podcasters&#039; Roundtable!
+Sign up to appear on a future Podcasters Roundtable!
 
 
-Thanks and I can&#039;t wait to see you on a future Roundtable!
-Subscribe to Podcasters&#039; Roundtable</description>
+Thanks and I cant wait to see you on a future Roundtable!
+Subscribe to Podcasters Roundtable</description>
 		<content:encoded><![CDATA[<p><iframe src="https://www.youtube.com/embed/BA4bU0crutE?rel=0" width="720" height="405" frameborder="0" allowfullscreen="allowfullscreen"></iframe></p>
 <div class="Ct">
 <p><span style="word-spacing: normal;">Join </span><a style="line-height: 20px; word-spacing: normal;" href="https://plus.google.com/u/0/+RayOrtega" target="_blank">Ray Ortega</a><span style="word-spacing: normal;">, </span><span class="proflinkWrapper" style="word-spacing: normal;"><span class="proflinkPrefix">+</span><a class="proflink aaTEdf" href="https://plus.google.com/100309749866559941116" target="_blank">Daniel J. Lewis</a></span><span style="word-spacing: normal;"> </span><a style="line-height: 20px; word-spacing: normal;" href="http://schoolofpodcasting.com/" target="_blank">+Dave Jackson</a><span style="word-spacing: normal;">, <a href="http://georgewhittam.com/">+George Whittam</a> and <a href="http://freedompodcasting.com">+Ian Robinson</a></span><span style="word-spacing: normal;"> to discuss whatever the Roundtabler&#8217;s want including iTunes New and Noteworthy, audio vs video podcasting, advertising, &#8220;simple&#8221; podcast gear setups and more.</span></p>
@@ -164,17 +164,17 @@ Subscribe to Podcasters&#8217; Roundtable<br />
 		<comments>http://podcastersroundtable.com/pr070-what-could-podcasting-be-doing-better/#respond</comments>
 		<dc:creator>Ray</dc:creator>
 		<category><![CDATA[podcast]]></category>
-		<description>Podcasting is still young and yet has been, in my opinion, very successful as a medium. But what&#039;s left? What can podcasting be doing better to help itself grow? 
+		<description>Podcasting is still young and yet has been, in my opinion, very successful as a medium. But whats left? What can podcasting be doing better to help itself grow? 
 
-Join Ray Ortega, +Daniel J. Lewis +Dave Jackson, Scott Black, and James Gass to think about things we&#039;d like to see podcasting do in the future. 
+Join Ray Ortega, +Daniel J. Lewis +Dave Jackson, Scott Black, and James Gass to think about things wed like to see podcasting do in the future. 
 
 You can subscribe to the RSS mailing list (http://eepurl.com/GnBwr) to get new Rounds delivered to your inbox automatically.
 
-Sign up to appear on a future Podcasters&#039; Roundtable!
+Sign up to appear on a future Podcasters Roundtable!
 
 
-Thanks and I can&#039;t wait to see you on a future Roundtable!
-Subscribe to Podcasters&#039; Roundtable</description>
+Thanks and I cant wait to see you on a future Roundtable!
+Subscribe to Podcasters Roundtable</description>
 		<content:encoded><![CDATA[<p><iframe src="https://www.youtube.com/embed/JihvVd3_8r0?rel=0" width="720" height="405" frameborder="0" allowfullscreen="allowfullscreen"></iframe></p>
 <div class="Ct">
 <p><span style="word-spacing: normal;">Podcasting is still young and yet has been, in my opinion, very successful as a medium. But what&#8217;s left? What can podcasting be doing better to help itself grow? </span></p>
@@ -218,17 +218,17 @@ Subscribe to Podcasters&#8217; Roundtable<br />
 		<category><![CDATA[podfade]]></category>
 		<category><![CDATA[podfading]]></category>
 		<category><![CDATA[stopping a podcast]]></category>
-		<description>All podcasters will, at some point, wrestle with the decision to &quot;podfade.&quot; Whether it&#039;s 7 episodes into your show or 1007, at some point you&#039;ll have to consider when to stop podcasting or else time will do it for you;)
+		<description>All podcasters will, at some point, wrestle with the decision to &quot;podfade.&quot; Whether its 7 episodes into your show or 1007, at some point youll have to consider when to stop podcasting or else time will do it for you;)
 
 Join Ray Ortega, +Daniel J. Lewis +Dave Jackson,  Mario Zamarron, and Roberto Suarez to discuss what to consider when it comes to podfading.
 
 You can subscribe to the RSS mailing list (http://eepurl.com/GnBwr) to get new Rounds delivered to your inbox automatically.
 
-Sign up to appear on a future Podcasters&#039; Roundtable!
+Sign up to appear on a future Podcasters Roundtable!
 
 
-Thanks and I can&#039;t wait to see you on a future Roundtable!
-Subscribe to Podcasters&#039; Roundtable</description>
+Thanks and I cant wait to see you on a future Roundtable!
+Subscribe to Podcasters Roundtable</description>
 		<content:encoded><![CDATA[<p><iframe src="https://www.youtube.com/embed/jzxMA2Qdgnw?rel=0" width="720" height="405" frameborder="0" allowfullscreen="allowfullscreen"></iframe></p>
 <div class="Ct">
 <p><span style="word-spacing: normal;">All podcasters will, at some point, wrestle with the decision to &#8220;podfade.&#8221; Whether it&#8217;s 7 episodes into your show or 1007, at some point you&#8217;ll have to consider when to stop podcasting or else time will do it for you;)</p>
@@ -281,10 +281,10 @@ Join Ray Ortega, +Daniel J. Lewis +Dave Jackson, Jay Soderberg, Joe Stuber and o
 
 You can subscribe to the podcast only RSS mailing list to get new Rounds delivered to your inbox automatically.
 
-Sign up to appear on a future Podcasters&#039; Roundtable!
+Sign up to appear on a future Podcasters Roundtable!
 
-Thanks and I can&#039;t wait to see you on a future Roundtable!
-Subscribe to Podcasters&#039; Roundtable</description>
+Thanks and I cant wait to see you on a future Roundtable!
+Subscribe to Podcasters Roundtable</description>
 		<content:encoded><![CDATA[<p><iframe src="https://www.youtube.com/embed/ci9ZtVyulio?rel=0" width="720" height="405" frameborder="0" allowfullscreen="allowfullscreen"></iframe></p>
 <div class="Ct">
 <p><span style="word-spacing: normal;">How much preparation do you do before an episode? Some podcasters write out their entire show, some create an outline and some do no prep at all. What works for you and how do you decide how much work you do before you turn on the mic.?</span></p>
@@ -341,10 +341,10 @@ Join Ray Ortega, +Daniel J. Lewis +Dave Jackson +David LaFaire +Seth Resler, +Je
 
 You can subscribe to the podcast only RSS mailing list to get new Rounds delivered to your inbox automatically.
 
-Sign up to appear on a future Podcasters&#039; Roundtable!
+Sign up to appear on a future Podcasters Roundtable!
 
-Thanks and I can&#039;t wait to see you on a future Roundtable!
-Subscribe to Podcasters&#039; Roundtable</description>
+Thanks and I cant wait to see you on a future Roundtable!
+Subscribe to Podcasters Roundtable</description>
 		<content:encoded><![CDATA[<p><iframe src="https://www.youtube.com/embed/OfVpru5HFKo?rel=0" width="720" height="405" frameborder="0" allowfullscreen="allowfullscreen"></iframe></p>
 <div class="Ct">
 <p>What is your favorite podcasting hack?</p>
@@ -397,10 +397,10 @@ Subscribe to Podcasters&#8217; Roundtable<br />
 		<category><![CDATA[podcastsconnect]]></category>
 		<category><![CDATA[refresh feed]]></category>
 		<category><![CDATA[refresh podcast]]></category>
-		<description>Apple is changing the way you submit a podcast to iTunes as well as the access that you get to that podcast once it&#039;s accepted it the iTunes store.
+		<description>Apple is changing the way you submit a podcast to iTunes as well as the access that you get to that podcast once its accepted it the iTunes store.
 
 
-Find out what&#039;s new and how to avoid breaking your podcast by using the added functionality wrong.
+Find out whats new and how to avoid breaking your podcast by using the added functionality wrong.
 
 Join Ray Ortega, +Daniel J. Lewis and +Todd Cochrane  to discuss Podcasts Connect, a new podcast dashboard for iTunes.
 
@@ -419,10 +419,10 @@ Links mentioned in this Round:
 
 You can subscribe to the podcast only RSS mailing list to get new Rounds delivered to your inbox automatically.
 
-Sign up to appear on a future Podcasters&#039; Roundtable!
+Sign up to appear on a future Podcasters Roundtable!
 
-Thanks and I can&#039;t wait to see you on a future Roundtable!
-Subscribe to Podcasters&#039; Roundtable</description>
+Thanks and I cant wait to see you on a future Roundtable!
+Subscribe to Podcasters Roundtable</description>
 		<content:encoded><![CDATA[<p><iframe src="https://www.youtube.com/embed/nQBvL9YePWY?rel=0" width="720" height="405" frameborder="0" allowfullscreen="allowfullscreen"></iframe></p>
 <div class="Ct">
 <p>Apple is changing the way you submit a podcast to iTunes as well as the access that you get to that podcast once it&#8217;s accepted it the iTunes store.</p>
@@ -497,7 +497,7 @@ Subscribe to Podcasters&#8217; Roundtable<br />
 		<category><![CDATA[statistics]]></category>
 		<category><![CDATA[stats]]></category>
 		<category><![CDATA[tracking]]></category>
-		<description>Do you know how many people listen or watch your podcast? Do you have stats? Are they accurate? Would you know if they weren&#039;t?
+		<description>Do you know how many people listen or watch your podcast? Do you have stats? Are they accurate? Would you know if they werent?
 
 Podcast audience measurement can be a tricky thing. Most of us leave that task to our podcast media host or some other third party stat tracking service. But how do they measure stats and who is doing it most accurately?
 
@@ -508,10 +508,10 @@ Join Ray Ortega, +David Jackson   +Daniel J. Lewis  +Rob Greenlee  and +Todd Coc
 
 You can subscribe to the podcast only RSS mailing list to get new Rounds delivered to your inbox automatically.
 
-Sign up to appear on a future Podcasters&#039; Roundtable!
+Sign up to appear on a future Podcasters Roundtable!
 
-Thanks and I can&#039;t wait to see you on a future Roundtable!
-Subscribe to Podcasters&#039; Roundtable</description>
+Thanks and I cant wait to see you on a future Roundtable!
+Subscribe to Podcasters Roundtable</description>
 		<content:encoded><![CDATA[<p><iframe src="https://www.youtube.com/embed/apLXbbG4R2o?rel=0" width="720" height="405" frameborder="0" allowfullscreen="allowfullscreen"></iframe></p>
 <div class="Ct">
 <p>Do you know how many people listen or watch your podcast? Do you have stats? Are they accurate? Would you know if they weren&#8217;t?</p>
@@ -569,9 +569,9 @@ Join Ray Ortega +David Jackson +Daniel J. Lewis +Jason E. Norris +Karen Unland a
 
 You can subscribe to the podcast only RSS mailing list to get new Rounds delivered to your inbox automatically.
 
-Sign up to appear on a future Podcasters&#039; Roundtable!
+Sign up to appear on a future Podcasters Roundtable!
 
-Thanks and I can&#039;t wait to see you on a future Roundtable!
+Thanks and I cant wait to see you on a future Roundtable!
 
 Links mentioned during this Round
 
@@ -579,7 +579,7 @@ Links mentioned during this Round
 	10 Sure Fire Tips to Excite Your Hometown Podcast
 	Podcast Local - Telling the Stories of Your Community
 
-Subscribe to Podcasters&#039; Roundtable</description>
+Subscribe to Podcasters Roundtable</description>
 		<content:encoded><![CDATA[<p><center><iframe src="https://www.youtube.com/embed/pStXveu_AAQ?rel=0" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe></center>&nbsp;</p>
 <div class="tG QF"></div><div class="Ct">
 <p>Podcasts are syndicated to the world. But what if your focus is on a specific geographic location? How does a local podcast reach its audience with a global medium?</p>
@@ -643,14 +643,14 @@ Does your podcast pay for itself? Do you get some kind of monetary compensation 
 
 There is an in between world that most podcasts fall into somewhere between pure hobbyist and &quot;professional.&quot; In the middle is a whole bunch of shows that make enough money to pay their operating costs (media and web hosting, domains, etc.).
 
-Join +Ray Ortega, +David Jackson,+Daniel J. Lewis, +Stephen Grasso and +Gary Pearce to discuss the ways in which you might be able to get your podcast to cover the podcasting bills... or not (nothing&#039;s easy).
+Join +Ray Ortega, +David Jackson,+Daniel J. Lewis, +Stephen Grasso and +Gary Pearce to discuss the ways in which you might be able to get your podcast to cover the podcasting bills... or not (nothings easy).
 
 You can subscribe to the podcast only RSS mailing list to get new Rounds delivered to your inbox automatically.
 
-Sign up to appear on a future Podcasters&#039; Roundtable!
+Sign up to appear on a future Podcasters Roundtable!
 
-Thanks and I can&#039;t wait to see you on a future Roundtable!
-Subscribe to Podcasters&#039; Roundtable</description>
+Thanks and I cant wait to see you on a future Roundtable!
+Subscribe to Podcasters Roundtable</description>
 		<content:encoded><![CDATA[<p><center><iframe src="https://www.youtube.com/embed/B2oo9vZWSJ0?rel=0" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe></center>&nbsp;</p>
 <p>Does your podcast pay for itself? Do you get some kind of monetary compensation that helps you pay for web and media hosting, gear upgrades, premium plugins, etc?</p>
 <p>There is an in between world that most podcasts fall into somewhere between pure hobbyist and &#8220;professional.&#8221; In the middle is a whole bunch of shows that make enough money to pay their operating costs (media and web hosting, domains, etc.).</p>
@@ -693,7 +693,7 @@ Subscribe to Podcasters&#8217; Roundtable<br />
 		<category><![CDATA[website]]></category>
 		<description> 
 
-As podcasters, it&#039;s important to have your own website, a home for your show. But domains can be like tattoos, get one and you want more. And while I don&#039;t have any tattoos, I do have 12 domain names.
+As podcasters, its important to have your own website, a home for your show. But domains can be like tattoos, get one and you want more. And while I dont have any tattoos, I do have 12 domain names.
 
 Dave on the other hand has...97!
 
@@ -705,10 +705,10 @@ You can subscribe to the podcast only RSS mailing list to get new Rounds deliver
 
 View the chat from this Round.
 
-Sign up to appear on a future Podcasters&#039; Roundtable!
+Sign up to appear on a future Podcasters Roundtable!
 
-Thanks and I can&#039;t wait to see you on a future Roundtable!
-Subscribe to Podcasters&#039; Roundtable</description>
+Thanks and I cant wait to see you on a future Roundtable!
+Subscribe to Podcasters Roundtable</description>
 		<content:encoded><![CDATA[<p><center><iframe src="https://www.youtube.com/embed/xZVFKeyHiGI?rel=0" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe></center>&nbsp;</p>
 <p>As podcasters, it&#8217;s important to have your own website, a home for your show. But domains can be like tattoos, get one and you want more. And while I don&#8217;t have any tattoos, I do have 12 domain names.</p>
 <p>Dave on the other hand has&#8230;97!</p>
@@ -754,18 +754,18 @@ Subscribe to Podcasters&#8217; Roundtable<br />
 		<category><![CDATA[rss]]></category>
 		<description> 
 
-RSS feeds are the core of podcasting, without one you don&#039;t have a podcast. On this Round we&#039;ll be chatting about all things RSS as it pertains to a podcast.
+RSS feeds are the core of podcasting, without one you dont have a podcast. On this Round well be chatting about all things RSS as it pertains to a podcast.
 
-Join+Ray Ortega +Daniel J. Lewis +David Jackson +Stargate Pioneer +Krystal O&#039;Connor and +Shawn Thorpe to find out how podcasters are creating their RSS feeds and what issues they have encountered while maintaining one.
+Join+Ray Ortega +Daniel J. Lewis +David Jackson +Stargate Pioneer +Krystal OConnor and +Shawn Thorpe to find out how podcasters are creating their RSS feeds and what issues they have encountered while maintaining one.
 
 You can subscribe to the podcast only RSS mailing list to get new Rounds delivered to your inbox automatically.
 
 View the chat from this Round.
 
-Sign up to appear on a future Podcasters&#039; Roundtable!
+Sign up to appear on a future Podcasters Roundtable!
 
-Thanks and I can&#039;t wait to see you on a future Roundtable!
-Subscribe to Podcasters&#039; Roundtable</description>
+Thanks and I cant wait to see you on a future Roundtable!
+Subscribe to Podcasters Roundtable</description>
 		<content:encoded><![CDATA[<p><center><iframe src="https://www.youtube.com/embed/0z8korT_cik?rel=0&amp;showinfo=0" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe></center>&nbsp;</p>
 <p>RSS feeds are the core of podcasting, without one you don&#8217;t have a podcast. On this Round we&#8217;ll be chatting about all things RSS as it pertains to a podcast.</p>
 <p>Join<span class="proflinkWrapper"><span class="proflinkPrefix">+</span><a class="proflink aaTEdf" href="https://plus.google.com/104055244616391380650">Ray Ortega</a></span> <span class="proflinkWrapper"><span class="proflinkPrefix">+</span><a class="proflink aaTEdf" href="https://plus.google.com/100309749866559941116">Daniel J. Lewis</a></span> <span class="proflinkWrapper"><span class="proflinkPrefix">+</span><a class="proflink aaTEdf" href="https://plus.google.com/108629902260400399949">David Jackson</a></span> <a href="http://gonnageek.com/" target="_blank">+Stargate Pioneer</a> <a href="http://www.bullettalkradio.com/" target="_blank">+Krystal O&#8217;Connor</a> and <a href="http://www.shawn.mx/" target="_blank">+Shawn Thorpe</a> to find out how podcasters are creating their RSS feeds and what issues they have encountered while maintaining one.</p>
@@ -815,10 +815,10 @@ You can subscribe to the podcast only RSS mailing list to get new Rounds deliver
 
 View the chat from this Round.
 
-Sign up to appear on a future Podcasters&#039; Roundtable!
+Sign up to appear on a future Podcasters Roundtable!
 
-Thanks and I can&#039;t wait to see you on a future Roundtable!
-Subscribe to Podcasters&#039; Roundtable</description>
+Thanks and I cant wait to see you on a future Roundtable!
+Subscribe to Podcasters Roundtable</description>
 		<content:encoded><![CDATA[<p><center><iframe src="https://www.youtube.com/embed/2N87MueQCGM?rel=0&amp;showinfo=0" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe></center>&nbsp;</p>
 <p class="p1"><span style="line-height: 1.5;">Do you talk to your audience and if so, do they answer? </span></p>
 <p class="p1"><span style="line-height: 1.5;">Join<span class="proflinkWrapper"><span class="proflinkPrefix">+</span><a class="proflink aaTEdf" href="https://plus.google.com/104055244616391380650">Ray Ortega</a></span> <span class="proflinkWrapper"><span class="proflinkPrefix">+</span><a class="proflink aaTEdf" href="https://plus.google.com/100309749866559941116">Daniel J. Lewis</a></span> <span class="proflinkWrapper"><span class="proflinkPrefix">+</span><a class="proflink aaTEdf" href="https://plus.google.com/108629902260400399949">David Jackson</a> <span class="proflinkWrapper"><a href="http://www.scottrobertsweb.com/" target="_blank"><span class="proflinkPrefix">+</span>Scott Roberts</a> </span><a href="http://newmediashow.com" target="_blank"><span class="proflinkWrapper"><span class="proflinkPrefix">+</span>Todd Cochrane</span></a> and <a href="http://civcomm.civfanatics.com/polycast/" target="_blank">Dan Quick aka <span class="proflinkWrapper"><span class="proflinkPrefix">+</span>thepolycast</span></a> to discuss the various ways that podcasters have conversations with their audience.</span></span></p>
@@ -865,9 +865,9 @@ View the chat from this Round.
 Links mentioned on this Round
 
 Wish Brad Whitley Sr. a quick recovery (check out that scar!). Keep kicking butt, Brad!
-Sign up to appear on a future Podcasters&#039; Roundtable!
-Thanks and I can&#039;t wait to see you on a future Roundtable!
-Subscribe to Podcasters&#039; Roundtable</description>
+Sign up to appear on a future Podcasters Roundtable!
+Thanks and I cant wait to see you on a future Roundtable!
+Subscribe to Podcasters Roundtable</description>
 		<content:encoded><![CDATA[<p><center><iframe src="https://www.youtube.com/embed/sJbw_ghaBok?rel=0&amp;showinfo=0" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe></center>&nbsp;</p>
 <p class="p1"><span class="s1">Podcasters are made up of all different types of people. So what was it that attracted you to podcasting? What is it about your interests, history, skills, etc. that lead you to becoming a podcaster?</span></p>
 <p><span style="line-height: 1.5;">Join<span class="proflinkWrapper"><span class="proflinkPrefix">+</span><a class="proflink aaTEdf" href="https://plus.google.com/104055244616391380650">Ray Ortega</a></span> <span class="proflinkWrapper"><span class="proflinkPrefix">+</span><a class="proflink aaTEdf" href="https://plus.google.com/100309749866559941116">Daniel J. Lewis</a></span> and <span class="proflinkWrapper"><span class="proflinkPrefix">+</span><a class="proflink aaTEdf" href="https://plus.google.com/108629902260400399949">David Jackson</a> </span></span><span class="s1">+Jon Moonie and +Maya G to explore the traits common to all podcasters but more interestingly the ones that are not.</span></p>
@@ -919,15 +919,15 @@ Subscribe to Podcasters&#8217; Roundtable<br />
 		<category><![CDATA[top 200]]></category>
 		<description> 
 
-Time to get all your iTunes search, rankings and algorithm questions answered! There is a lot of mystery about what goes on in the background of iTunes as it pertains to your podcast. On this Round we&#039;ll do our best to find out as much as possible about how your show moves around inside iTunes.
+Time to get all your iTunes search, rankings and algorithm questions answered! There is a lot of mystery about what goes on in the background of iTunes as it pertains to your podcast. On this Round well do our best to find out as much as possible about how your show moves around inside iTunes.
 Join+Ray Ortega +Daniel J. Lewis and +David Jackson +Rob Walch and +Angelo Mandato to take a deep dive behind the scenes of the iTunes podcast section. 
 
 You can subscribe to the podcast only RSS mailing list to get new Rounds delivered to your inbox automatically.
 
 View the chat from this Round.
-Sign up to appear on a future Podcasters&#039; Roundtable!
-Thanks and I can&#039;t wait to see you on a future Roundtable!
-Subscribe to Podcasters&#039; Roundtable</description>
+Sign up to appear on a future Podcasters Roundtable!
+Thanks and I cant wait to see you on a future Roundtable!
+Subscribe to Podcasters Roundtable</description>
 		<content:encoded><![CDATA[<p><center><iframe src="https://www.youtube.com/embed/lRVuCUjAjdI?rel=0&amp;showinfo=0" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe></center>&nbsp;</p>
 <p><span style="line-height: 1.5;">Time to get all your iTunes search, rankings and algorithm questions answered! There is a lot of mystery about what goes on in the background of iTunes as it pertains to your podcast. On this Round we&#8217;ll do our best to find out as much as possible about how your show moves around inside iTunes.<br />
 Join<span class="proflinkWrapper"><span class="proflinkPrefix">+</span><a class="proflink aaTEdf" href="https://plus.google.com/104055244616391380650">Ray Ortega</a></span> <span class="proflinkWrapper"><span class="proflinkPrefix">+</span><a class="proflink aaTEdf" href="https://plus.google.com/100309749866559941116">Daniel J. Lewis</a></span> and <span class="proflinkWrapper"><span class="proflinkPrefix">+</span><a class="proflink aaTEdf" href="https://plus.google.com/108629902260400399949">David Jackson</a> <span class="proflinkWrapper"><span class="proflinkPrefix">+</span><a class="proflink aaTEdf" href="https://plus.google.com/107323905795551087366">Rob Walch</a> and <a title="blubrry" href="http://blubrry.com/" target="_blank">+Angelo Mandato</a></span> to take a deep dive behind the scenes of the iTunes podcast section. </span></span></p>
@@ -970,9 +970,9 @@ Visit InternationalPodcastDay.com to participate!
 You can watch the entire #PodcastDay 24-hour event on blab.im.
 
 You can subscribe to the podcast only RSS mailing list to get new Rounds delivered to your inbox automatically.
-Sign up to appear on a future Podcasters&#039; Roundtable!
-Thanks and I can&#039;t wait to see you on a future Roundtable!
-Subscribe to Podcasters&#039; Roundtable</description>
+Sign up to appear on a future Podcasters Roundtable!
+Thanks and I cant wait to see you on a future Roundtable!
+Subscribe to Podcasters Roundtable</description>
 		<content:encoded><![CDATA[<p><a href="http://podcastersroundtable.com/wp-content/uploads/2015/10/PR58thumb.jpg"><img class="aligncenter size-large wp-image-608" src="http://podcastersroundtable.com/wp-content/uploads/2015/10/PR58thumb-1024x576.jpg" alt="PR58thumb" width="590" height="332" srcset="http://podcastersroundtable.com/wp-content/uploads/2015/10/PR58thumb-1024x576.jpg 1024w, http://podcastersroundtable.com/wp-content/uploads/2015/10/PR58thumb-300x169.jpg 300w, http://podcastersroundtable.com/wp-content/uploads/2015/10/PR58thumb.jpg 1280w" sizes="(max-width: 590px) 100vw, 590px" /></a></p>
 <p>A special Roundtable themed live-streamed via blab.im to celebrate International Podcast Day.</p>
 <p>Visit <a href="http://InternationalPodcastDay.com" target="_blank">InternationalPodcastDay.com</a> to participate!</p>
@@ -1013,7 +1013,7 @@ Subscribe to Podcasters&#8217; Roundtable<br />
 		<category><![CDATA[getting started]]></category>
 		<category><![CDATA[motivation]]></category>
 		<category><![CDATA[podcasting]]></category>
-		<description>You&#039;ve thought about starting a podcast. You even bought a microphone and a domain name but there&#039;s still one or two obstacles in your way.
+		<description>Youve thought about starting a podcast. You even bought a microphone and a domain name but theres still one or two obstacles in your way.
 
 Join +WordsPressed (Charlie Moss) and +Kelly Huston to find out what has stopped them from launching a show.
 
@@ -1022,9 +1022,9 @@ Join +WordsPressed (Charlie Moss) and +Kelly Huston to find out what has stopped
 You can subscribe to the podcast only RSS mailing list to get new Rounds delivered to your inbox automatically.
 
 View the chat from this Round.
-Sign up to appear on a future Podcasters&#039; Roundtable!
-Thanks and I can&#039;t wait to see you on a future Roundtable!
-Subscribe to Podcasters&#039; Roundtable</description>
+Sign up to appear on a future Podcasters Roundtable!
+Thanks and I cant wait to see you on a future Roundtable!
+Subscribe to Podcasters Roundtable</description>
 		<content:encoded><![CDATA[<p><center><iframe src="https://www.youtube.com/embed/GKbi0DW7s4Y?rel=0&amp;showinfo=0" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe></center><span style="line-height: 1.5;">You&#8217;ve thought about starting a podcast. You even bought a microphone and a domain name but there&#8217;s still one or two obstacles in your way.</span></p>
 <p>Join <span class="proflinkWrapper"><span class="proflinkPrefix">+</span><a class="proflink aaTEdf" href="https://plus.google.com/111965081351718863594">WordsPressed</a></span> (Charlie Moss) and <span class="proflinkWrapper"><span class="proflinkPrefix">+</span><a class="proflink aaTEdf" href="https://plus.google.com/104455416583829552543">Kelly Huston</a></span> to find out what has stopped them from launching a show.</p>
 <p><span class="proflinkWrapper"><span class="proflinkPrefix">+</span><a class="proflink aaTEdf" href="https://plus.google.com/104055244616391380650">Ray Ortega</a></span> <span class="proflinkWrapper"><span class="proflinkPrefix">+</span><a class="proflink aaTEdf" href="https://plus.google.com/100309749866559941116">Daniel J. Lewis</a></span> and <span class="proflinkWrapper"><span class="proflinkPrefix">+</span><a class="proflink aaTEdf" href="https://plus.google.com/108629902260400399949">David Jackson</a></span> will work through the issues these future podcasters are having and provide strategies for actually getting content into an RSS feed and out to the world.</p>
@@ -1073,11 +1073,11 @@ Join Ray, +Daniel J. Lewis +David Jackson +Lex Starwalker and +Jeff Holbrook to 
 You can subscribe to the podcast only RSS mailing list to get new Rounds delivered to your inbox automatically.
 
 View the chat from this Round.
-Sign up to appear on a future Podcasters&#039; Roundtable!
+Sign up to appear on a future Podcasters Roundtable!
  
 
-Thanks and I can&#039;t wait to see you on a future Roundtable!
-Subscribe to Podcasters&#039; Roundtable</description>
+Thanks and I cant wait to see you on a future Roundtable!
+Subscribe to Podcasters Roundtable</description>
 		<content:encoded><![CDATA[<p><center><iframe src="https://www.youtube.com/embed/bzxHwWJd82I?rel=0&amp;showinfo=0" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe></center><span style="line-height: 1.5;">A round up of some of the latest news and fads making their way around the podcasting space.</span></p>
 <p>Join <a href="https://plus.google.com/u/0/+RayOrtega" target="_blank">Ray</a>, <span class="proflinkWrapper"><span class="proflinkPrefix">+</span><a class="proflink aaTEdf" href="https://plus.google.com/100309749866559941116">Daniel J. Lewis</a></span> <span class="proflinkWrapper"><span class="proflinkPrefix">+</span><a class="proflink aaTEdf" href="https://plus.google.com/108629902260400399949">David Jackson</a></span> <span class="proflinkWrapper"><span class="proflinkPrefix">+</span><a class="proflink aaTEdf" href="http://starwalkerstudios.com" target="_blank">Lex Starwalker</a></span> and <span class="proflinkWrapper"><span class="proflinkPrefix">+</span><a class="proflink aaTEdf" href="http://holbrooknewmedia.com">Jeff Holbrook</a></span> to chat podcast advertising, donation models, mobile live-streaming, podcast networks and more.</p>
 <p>You can <a title="PR Rounds Mailing list" href="http://eepurl.com/GnBwr" target="_blank">subscribe to the podcast only RSS mailing list</a> to get new Rounds delivered to your inbox automatically.</p>
@@ -1125,16 +1125,16 @@ Subscribe to Podcasters&#8217; Roundtable<br />
 		<category><![CDATA[podfade]]></category>
 		<category><![CDATA[roundtable]]></category>
 		<category><![CDATA[sponsorship]]></category>
-		<description>At some point during your podcast journey you&#039;re going to have to make a really hard decision. Stop podcasting, decline a good opportunity, delete an episode, &quot;fire&quot; a co-host, start over, etc. 
+		<description>At some point during your podcast journey youre going to have to make a really hard decision. Stop podcasting, decline a good opportunity, delete an episode, &quot;fire&quot; a co-host, start over, etc. 
 
-Join me (Ray Ortega),+David Jackson, +Daniel J. Lewis +Darrell Darnell and +Danny Peña to talk about how a podcaster&#039;s gear setup may or may not change over time.
+Join me (Ray Ortega),+David Jackson, +Daniel J. Lewis +Darrell Darnell and +Danny Peña to talk about how a podcasters gear setup may or may not change over time.
 
 You can subscribe to the podcast only RSS mailing list to get new Rounds delivered to your inbox automatically.
 
 View the chat from this Round.
-Sign up to appear on a future Podcasters&#039; Roundtable!
-Thanks and I can&#039;t wait to see you on a future Roundtable!
-Subscribe to Podcasters&#039; Roundtable</description>
+Sign up to appear on a future Podcasters Roundtable!
+Thanks and I cant wait to see you on a future Roundtable!
+Subscribe to Podcasters Roundtable</description>
 		<content:encoded><![CDATA[<p><center><iframe src="https://www.youtube.com/embed/BkpATrBrVGM?rel=0&amp;showinfo=0" width="720" height="405" frameborder="0" allowfullscreen="allowfullscreen"></iframe></center><span style="line-height: 1.5;">At some point during your podcast journey you&#8217;re going to have to make a really hard decision. Stop podcasting, decline a good opportunity, delete an episode, &#8220;fire&#8221; a co-host, start over, etc. </span></p>
 <p><span style="line-height: 1.5;">Join me (</span><a style="line-height: 1.5;" href="https://plus.google.com/u/0/+RayOrtega" target="_blank">Ray Ortega</a><span style="line-height: 1.5;">),</span><span class="proflinkWrapper" style="line-height: 1.5;"><span class="proflinkPrefix">+</span><a class="proflink aaTEdf" href="https://plus.google.com/108629902260400399949">David Jackson</a></span><span style="line-height: 1.5;">, </span><span class="proflinkWrapper" style="line-height: 1.5;"><span class="proflinkPrefix">+</span><a class="proflink aaTEdf" href="https://plus.google.com/100309749866559941116">Daniel J. Lewis</a></span><span style="line-height: 1.5;"> </span><span class="proflinkWrapper" style="line-height: 1.5;"><span class="proflinkPrefix">+<a href="http://www.propodcastsolutions.com/" target="_blank">Darrell Darnell</a> and <a href="http://gamertagradio.com" target="_blank">+Danny Peña</a></span></span><span style="line-height: 1.5;"> to talk about how a podcaster&#8217;s gear setup may or may not change over time.</span></p>
 <p>You can <a title="PR Rounds Mailing list" href="http://eepurl.com/GnBwr" target="_blank">subscribe to the podcast only RSS mailing list</a> to get new Rounds delivered to your inbox automatically.</p>
@@ -1177,16 +1177,16 @@ Subscribe to Podcasters&#8217; Roundtable<br />
 		<category><![CDATA[podcasting]]></category>
 		<category><![CDATA[setup]]></category>
 		<category><![CDATA[video]]></category>
-		<description>How do you know when it&#039;s time to get your next piece of podcast gear? Can you stay with the gear you started with or is it best to evolve your setup?
+		<description>How do you know when its time to get your next piece of podcast gear? Can you stay with the gear you started with or is it best to evolve your setup?
 
-Join me (Ray Ortega),+David Jackson, +Daniel J. Lewis +Alan Mead and +Bryce Cooke to talk about how a podcaster&#039;s gear setup may or may not change over time.
+Join me (Ray Ortega),+David Jackson, +Daniel J. Lewis +Alan Mead and +Bryce Cooke to talk about how a podcasters gear setup may or may not change over time.
 
 You can subscribe to the podcast only RSS mailing list to get new Rounds delivered to your inbox automatically.
 
 View the chat from this Round.
-Sign up to appear on a future Podcasters&#039; Roundtable!
-Thanks and I can&#039;t wait to see you on a future Roundtable!
-Subscribe to Podcasters&#039; Roundtable</description>
+Sign up to appear on a future Podcasters Roundtable!
+Thanks and I cant wait to see you on a future Roundtable!
+Subscribe to Podcasters Roundtable</description>
 		<content:encoded><![CDATA[<p><center><iframe src="https://www.youtube.com/embed/zzyix-JT2tc?rel=0&amp;showinfo=0" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe></center>How do you know when it&#8217;s time to get your next piece of podcast gear? Can you stay with the gear you started with or is it best to evolve your setup?</p>
 <p>Join me (<a href="https://plus.google.com/u/0/+RayOrtega" target="_blank">Ray Ortega</a>),<span class="proflinkWrapper"><span class="proflinkPrefix">+</span><a class="proflink aaTEdf" href="https://plus.google.com/108629902260400399949">David Jackson</a></span>, <span class="proflinkWrapper"><span class="proflinkPrefix">+</span><a class="proflink aaTEdf" href="https://plus.google.com/100309749866559941116">Daniel J. Lewis</a></span> <span class="proflinkWrapper"><span class="proflinkPrefix">+</span><a class="proflink aaTEdf" href="http://dentalhacks.com/" target="_blank">Alan Mead</a></span> and <span class="proflinkWrapper"><span class="proflinkPrefix">+</span><a class="proflink aaTEdf" href="https://www.youtube.com/channel/UCiyO55Fdiy0JK2tqjJrPkJg" target="_blank">Bryce Cooke</a></span> to talk about how a podcaster&#8217;s gear setup may or may not change over time.</p>
 <p>You can <a title="PR Rounds Mailing list" href="http://eepurl.com/GnBwr" target="_blank">subscribe to the podcast only RSS mailing list</a> to get new Rounds delivered to your inbox automatically.</p>
@@ -1238,9 +1238,9 @@ Join +Ray Ortega,+Daniel J. Lewis +David Jackson +Colin Gray +Paul Peterson and 
 You can subscribe to the podcast only RSS mailing list to get new Rounds delivered to your inbox automatically.
 
 Read the chat from this Round.
-Sign up to appear on a future Podcasters&#039; Roundtable!
-Thanks and I can&#039;t wait to see you on a future Roundtable!
-Subscribe to Podcasters&#039; Roundtable</description>
+Sign up to appear on a future Podcasters Roundtable!
+Thanks and I cant wait to see you on a future Roundtable!
+Subscribe to Podcasters Roundtable</description>
 		<content:encoded><![CDATA[<p><center><iframe src="https://www.youtube.com/embed/9k_qBSZ3jA0?rel=0&amp;showinfo=0" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe></center>When you start a podcast, one of the first decisions you make is what kind of show are you going to produce? Solo host, co-hosted, roundtable, interviews, a mix of many?</p>
 <p><span style="line-height: 1.5;">Join <a href="https://plus.google.com/u/0/+RayOrtega" target="_blank">+Ray Ortega</a>,</span><span class="proflinkWrapper" style="line-height: 1.5;"><span class="proflinkPrefix">+</span><a class="proflink aaTEdf" href="https://plus.google.com/100309749866559941116">Daniel J. Lewis</a></span><span style="line-height: 1.5;"> </span><span class="proflinkWrapper" style="line-height: 1.5;"><span class="proflinkPrefix">+</span><a class="proflink aaTEdf" href="https://plus.google.com/108629902260400399949">David Jackson</a> </span><a href="http://www.thepodcasthost.com/podcraft/category/s3-peerless-podcasting-website/" target="_blank">+Colin Gray</a> <a href="http://eexplosion.net" target="_blank">+Paul Peterson</a> and <a href="http://considerthis.ctpodcasting.com/" target="_blank">+Doug Payton</a> to discuss the various types of formats you can chose for your podcast.</p>
 <p>You can <a title="PR Rounds Mailing list" href="http://eepurl.com/GnBwr" target="_blank">subscribe to the podcast only RSS mailing list</a> to get new Rounds delivered to your inbox automatically.</p>
@@ -1289,9 +1289,9 @@ Join +Ray Ortega,+Daniel J. Lewis +David Jackson +Jerod Morris +Tawny Fineran an
 You can subscribe to the podcast only RSS mailing list to get new Rounds delivered to your inbox automatically.
 
 Read the chat from this Round.
-Sign up to appear on a future Podcasters&#039; Roundtable!
-Thanks and I can&#039;t wait to see you on a future Roundtable!
-Subscribe to Podcasters&#039; Roundtable</description>
+Sign up to appear on a future Podcasters Roundtable!
+Thanks and I cant wait to see you on a future Roundtable!
+Subscribe to Podcasters Roundtable</description>
 		<content:encoded><![CDATA[<p><iframe src="https://www.youtube.com/embed/Oyx3BlYldYM?rel=0&amp;showinfo=0" width="720" height="405" frameborder="0" allowfullscreen="allowfullscreen"></iframe></p>
 <p>Do you podcast alone or with others?</p>
 <p>Having a co-host can be extremely helpful when it comes to creating compelling, dynamic content that is interesting to listen to. Co-hosts can also help relieve some of the workload that comes with producing a podcast. But of course having co-hosts can create its own issues as well.</p>
@@ -1342,7 +1342,7 @@ Subscribe to Podcasters&#8217; Roundtable<br />
 		<category><![CDATA[rules]]></category>
 		<category><![CDATA[schedules]]></category>
 		<category><![CDATA[status quo]]></category>
-		<description>These days, podcasting has many best practices. But podcasting is an open medium, not governed by any single person or entity. So, while following best practices can be helpful, do you ever take advantage of podcasting&#039;s openness and challenge the status quo?
+		<description>These days, podcasting has many best practices. But podcasting is an open medium, not governed by any single person or entity. So, while following best practices can be helpful, do you ever take advantage of podcastings openness and challenge the status quo?
 
 What does the status quo, as far as podcasting is concerned, look like?
 
@@ -1351,9 +1351,9 @@ Join +Ray Ortega,+Daniel J. Lewis +David Jackson +Harry Duran and +Rick Calvert 
 You can subscribe to the podcast only RSS mailing list to get new Rounds delivered to your inbox automatically.
 
 Read the chat from this Round.
-Sign up to appear on a future Podcasters&#039; Roundtable!
-Thanks and I can&#039;t wait to see you on a future Roundtable!
-Subscribe to Podcasters&#039; Roundtable</description>
+Sign up to appear on a future Podcasters Roundtable!
+Thanks and I cant wait to see you on a future Roundtable!
+Subscribe to Podcasters Roundtable</description>
 		<content:encoded><![CDATA[<p><center><iframe src="https://www.youtube.com/embed/47LWSOrmHuY?rel=0&amp;showinfo=0" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe></center>These days, podcasting has many best practices. But podcasting is an open medium, not governed by any single person or entity. So, while following best practices can be helpful, do you ever take advantage of podcasting&#8217;s openness and challenge the status quo?</p>
 <p>What does the status quo, as far as podcasting is concerned, look like?</p>
 <p><span style="line-height: 1.5;">Join <a href="https://plus.google.com/u/0/+RayOrtega" target="_blank">+Ray Ortega</a>,</span><span class="proflinkWrapper" style="line-height: 1.5;"><span class="proflinkPrefix">+</span><a class="proflink aaTEdf" href="https://plus.google.com/100309749866559941116">Daniel J. Lewis</a></span><span style="line-height: 1.5;"> </span><span class="proflinkWrapper" style="line-height: 1.5;"><span class="proflinkPrefix">+</span><a class="proflink aaTEdf" href="https://plus.google.com/108629902260400399949">David Jackson</a></span><span style="line-height: 1.5;"> </span><a href="https://plus.google.com/102209887452299432593" target="_blank">+Harry Duran</a> and <a href="https://plus.google.com/u/0/108426641781481462995" target="_blank">+Rick Calvert</a> to discuss going beyond normalcy.</p>
@@ -1398,14 +1398,14 @@ Subscribe to Podcasters&#8217; Roundtable<br />
 		<category><![CDATA[rss feed]]></category>
 		<category><![CDATA[show]]></category>
 		<category><![CDATA[title]]></category>
-		<description>Have you ever changed the name of your podcast? Maybe you&#039;ve changed the name, content, twitter handle and any other established elements that make up a single show? Or perhaps the shift has been more subtle like a change in your artwork, colors, website, etc. The question is when do you know it&#039;s time for a change?
+		<description>Have you ever changed the name of your podcast? Maybe youve changed the name, content, twitter handle and any other established elements that make up a single show? Or perhaps the shift has been more subtle like a change in your artwork, colors, website, etc. The question is when do you know its time for a change?
 
 Watch me,+Daniel J. Lewis +David Jackson +Kenn Blanchard and +Joshua Rivers discuss when and why podcasters might consider rebranding their show.
 
 You can subscribe to the podcast only RSS mailing list to get new Rounds delivered to your inbox automatically.
-Sign up to appear on a future Podcasters&#039; Roundtable!
-Thanks and I can&#039;t wait to see you on a future Roundtable!
-Subscribe to Podcasters&#039; Roundtable</description>
+Sign up to appear on a future Podcasters Roundtable!
+Thanks and I cant wait to see you on a future Roundtable!
+Subscribe to Podcasters Roundtable</description>
 		<content:encoded><![CDATA[<p><center><iframe src="https://www.youtube.com/embed/jvbSReP9QwU?rel=0&amp;showinfo=0" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe></center></p>
 <div class="tG QF"></div><div class="Ct">
 <p>Have you ever changed the name of your podcast? Maybe you&#8217;ve changed the name, content, twitter handle and any other established elements that make up a single show? Or perhaps the shift has been more subtle like a change in your artwork, colors, website, etc. The question is when do you know it&#8217;s time for a change?</p>
@@ -1455,7 +1455,7 @@ We talk with the live audience, having them step up to the microphone one by one
 Join me (Ray Ortega) and +Daniel J. Lewis as we talk with the in-person Roundtable audience about their current podcasting issues.
 
 You can subscribe to the podcast only RSS mailing list to get new Rounds delivered to your inbox automatically.
-Sign up to appear on a future Podcasters&#039; Roundtable!</description>
+Sign up to appear on a future Podcasters Roundtable!</description>
 		<content:encoded><![CDATA[<p class="p1"><span class="s1"><a href="http://podcastersroundtable.com/wp-content/uploads/2015/04/PR049thumb.jpg" target="_blank"><img class=" size-large wp-image-550 aligncenter" src="http://podcastersroundtable.com/wp-content/uploads/2015/04/PR049thumb-1024x576.jpg" alt="PR049 Live at NMX/NAB 2015" width="590" height="332" srcset="http://podcastersroundtable.com/wp-content/uploads/2015/04/PR049thumb-1024x576.jpg 1024w, http://podcastersroundtable.com/wp-content/uploads/2015/04/PR049thumb-300x169.jpg 300w, http://podcastersroundtable.com/wp-content/uploads/2015/04/PR049thumb.jpg 1280w" sizes="(max-width: 590px) 100vw, 590px" /></a></span></p>
 <p class="p1">Live from NMX/NAB 2015 show floor!</p>
 <p class="p1"><span class="s1">We talk with the live audience, having them step up to the microphone one by one and tell us what is their biggest, current issue with producing a podcast?</span><br />
@@ -1495,14 +1495,14 @@ You can <a title="PR Rounds Mailing list" href="http://eepurl.com/GnBwr" target=
 		<category><![CDATA[news]]></category>
 		<category><![CDATA[speaking]]></category>
 		<category><![CDATA[tv]]></category>
-		<description>When you start a podcast you become much more than a podcaster. You&#039;ve crossed the line from media consumer to media producer. So have you taken your new talents outside the &quot;studio?&quot; Perhaps you&#039;ve been on TV, written an article for a newspaper or magazine, or given presentations at a conference all as a result of having a podcast.
+		<description>When you start a podcast you become much more than a podcaster. Youve crossed the line from media consumer to media producer. So have you taken your new talents outside the &quot;studio?&quot; Perhaps youve been on TV, written an article for a newspaper or magazine, or given presentations at a conference all as a result of having a podcast.
 
 Join me(Ray Ortega) +Daniel J. Lewis +David Jackson +Corey Fineran and +Wayne Brekke others to discuss what other kinds of content your podcast can lead to.
 
 You can subscribe to the podcast only RSS mailing list (http://eepurl.com/GnBwr) to get new Rounds delivered to your inbox automatically
 
 View the event page and chat.
-Sign up to appear on a future Podcasters&#039; Roundtable!</description>
+Sign up to appear on a future Podcasters Roundtable!</description>
 		<content:encoded><![CDATA[<p><center><iframe src="https://www.youtube.com/embed/M4psfkEHZ9s" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe></center>When you start a podcast you become much more than a podcaster. You&#8217;ve crossed the line from media consumer to media producer. So have you taken your new talents outside the &#8220;studio?&#8221; Perhaps you&#8217;ve been on TV, written an article for a newspaper or magazine, or given presentations at a conference all as a result of having a podcast.<span id="more-540"></span></p>
 <p>Join me<span style="line-height: 1.5;">(</span><a style="line-height: 1.5;" title="The Podcasters' Studio" href="http://thepodcastersstudio.com" target="_blank">Ray Ortega</a><span style="line-height: 1.5;">) </span><span class="proflinkWrapper" style="line-height: 1.5;"><span class="proflinkPrefix">+</span><a class="proflink aaTEdf" href="https://plus.google.com/100309749866559941116">Daniel J. Lewis</a></span> <a title="The School of Podcasting" href="http://theschoolofpodcasting.com" target="_blank">+David Jackson</a> <a title="Ivy Envy" href="http://ivyenvy.com" target="_blank">+Corey Fineran</a> and <a title="Worlds of Wayne" href="http://www.worldsofwayne.com/" target="_blank">+Wayne Brekke</a> others to discuss what other kinds of content your podcast can lead to.</p>
 <p>You can <a title="PR Rounds Mailing list" href="http://eepurl.com/GnBwr" target="_blank">subscribe to the podcast only RSS mailing list</a> (http://eepurl.com/GnBwr) to get new Rounds delivered to your inbox automatically</p>
@@ -1564,7 +1564,7 @@ Link mentioned on this episode:
 	RODE Rec
 	The Six Best Podcasting Apps for Android
 
-Sign up to appear on a future Podcasters&#039; Roundtable!</description>
+Sign up to appear on a future Podcasters Roundtable!</description>
 		<content:encoded><![CDATA[<p><center><iframe src="https://www.youtube.com/embed/Mudwe6C6Vtw?" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe></center>Podcasting has a lot of apps these days. Apps to subscribe to podcasts, apps for your own podcast, apps to help you create podcasts and more.</p>
 <p><span style="line-height: 1.5;">Join myself (</span><a style="line-height: 1.5;" title="The Podcasters' Studio" href="http://thepodcastersstudio.com" target="_blank">Ray Ortega</a><span style="line-height: 1.5;">) </span><span class="proflinkWrapper" style="line-height: 1.5;"><span class="proflinkPrefix">+</span><a class="proflink aaTEdf" href="https://plus.google.com/100309749866559941116">Daniel J. Lewis</a></span><span style="line-height: 1.5;"> <a title="New Media Show" href="https://www.google.com/url?sa=t&amp;rct=j&amp;q=&amp;esrc=s&amp;source=web&amp;cd=1&amp;cad=rja&amp;uact=8&amp;ved=0CB8QFjAA&amp;url=http%3A%2F%2Fnewmediashow.com%2F&amp;ei=Ap8TVdzgCsjooASiroCYBQ&amp;usg=AFQjCNFVK2ACNOWooM6eJO_Dcz_L5euLLg&amp;sig2=Bg3i2dz-Ryzi5gjssY3pBA&amp;bvm=bv.89381419,d.cGU" target="_blank">+Rob Greenlee</a> <a title="AR Dirt" href="https://www.google.com/url?sa=t&amp;rct=j&amp;q=&amp;esrc=s&amp;source=web&amp;cd=7&amp;cad=rja&amp;uact=8&amp;ved=0CDIQFjAG&amp;url=http%3A%2F%2Fwww.ardirt.com%2Fabout-the-author&amp;ei=G58TVdn9F4S3ogSl-4AY&amp;usg=AFQjCNGDjcz2k-ENiMuRZiu0NzfK5WsQNA&amp;sig2=_dOVcPFV76oD0KP3zrZbJw&amp;bvm=bv.89381419,d.cGU" target="_blank">+Joseph Rampolla</a> and <a title="The Airline Pilot Guy" href="http://airlinepilotguy.com/" target="_blank">+Jeff Nielsen</a> to discuss many of the apps available to podcasters and podcast consumers.</span></p>
 <p>You can <a title="PR episodes by mail" href="http://eepurl.com/GnBwr" target="_blank">subscribe to the RSS mailing list</a> to get new Rounds delivered to your inbox automatically.</p>
@@ -1651,7 +1651,7 @@ Link mentioned on this episode:
 	Running Podcast List
 	Podcasting For Free
 
-Sign up to appear on a future Podcasters&#039; Roundtable!</description>
+Sign up to appear on a future Podcasters Roundtable!</description>
 		<content:encoded><![CDATA[<p><center><iframe src="https://www.youtube.com/embed/-H2ydO9pE2g?" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe></center><br />
 If you brought a group of podcasters together in a room, what would they talk about? Mixers, the buzz surrounding podcasting, podcasting in seasons, podcasts on Windows Phone, listener engagement, forums, live-streaming, rising podcast listenership, podcasting on-location, and more.</p>
 <p>Join myself (Ray Ortega)<span class="proflinkWrapper"><span class="proflinkPrefix">+</span><a class="proflink aaTEdf" title="Podcasting for Free" href="http://podcastingforfree.com" target="_blank">David Jackson</a></span> <span class="proflinkWrapper"><span class="proflinkPrefix">+</span><a class="proflink aaTEdf" href="https://plus.google.com/100309749866559941116">Daniel J. Lewis</a></span> <span class="proflinkWrapper"><span class="proflinkPrefix">+<a title="The Average Guy TV" href="http://theaverageguy.tv" target="_blank">Jim Collison</a></span></span> <span class="proflinkWrapper"><span class="proflinkPrefix">+<a title="Nick Seuberling" href="http://podcastersgrouptherapy.com" target="_blank">Nick Seuberling</a></span></span> <span class="proflinkWrapper"><span class="proflinkPrefix">+<a title="Two Chairs No Waiting" href="http://twochairsnowaiting.com" target="_blank">Allan Newsome</a> +<a title="Mat Talk Online" href="http://matalkonline.com" target="_blank">Jason Bryant</a> +<a title="Shawn Thorpe" href="http://www.shawn.mx/" target="_blank">Shawn Thorpe</a></span></span> and <span class="proflinkWrapper"><span class="proflinkPrefix">+<a title="Running Podcast List" href="http://runningpodcastlist.com" target="_blank">Adam Tinkoff</a></span></span> to as we tackle some of the latest issues in podcasting.</p>
@@ -1714,7 +1714,7 @@ You can subscribe to the RSS mailing list to get new Rounds delivered to your in
 To view the chat archive which includes links, please visit the Event page for this Round.
 
 Circle Ray on Google Plus to be notified of future live recordings, to meet other podcasters and share your opinions in the chat! See ya at the next Round!
-Sign up to appear on a future Podcasters&#039; Roundtable!</description>
+Sign up to appear on a future Podcasters Roundtable!</description>
 		<content:encoded><![CDATA[<p><center><iframe src="https://www.youtube.com/embed/0h6z7Q8USCg" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe></center><br />
 What do you do when you notice your download numbers have stopped growing? Do you even notice? Do you care? Do you look for new ways to &#8220;get the word out?&#8221;</p>
 <p>Join myself (Ray Ortega)<span class="proflinkWrapper"><span class="proflinkPrefix">+</span><a class="proflink aaTEdf" href="https://plus.google.com/108629902260400399949">David Jackson</a></span> <span class="proflinkWrapper"><span class="proflinkPrefix">+</span><a class="proflink aaTEdf" href="https://plus.google.com/100309749866559941116">Daniel J. Lewis</a></span> <span class="proflinkWrapper"><span class="proflinkPrefix">+</span><a class="proflink aaTEdf" href="https://plus.google.com/109876467727174291780">Jeffrey Powers</a></span> <span class="proflinkWrapper"><span class="proflinkPrefix">+</span><a class="proflink aaTEdf" href="https://plus.google.com/102463206313734632696">Max Flight</a></span> <span class="proflinkWrapper"><span class="proflinkPrefix">+</span><a class="proflink aaTEdf" href="https://plus.google.com/103361370714904583804">Christopher Gronlund</a></span> and <span class="proflinkWrapper"><span class="proflinkPrefix">+</span><a class="proflink aaTEdf" href="https://plus.google.com/106096792927197506446">Craig Wealand</a></span> to discuss what to do, if anything, when your podcast stops growing.</p>
@@ -1756,13 +1756,13 @@ To view the chat archive which includes links, please visit <a title="PR45 Event
 
 As podcasters we are continually testing new items to help us improve the quality of our show or just make production easier. Those new things (gear, software, apps, etc.) might be as simple as a new service for recording Skype or as complex as a whole new hardware setup.
 
-Join me (+Ray Ortega) +Daniel J. Lewis and +Jason DeFillippo to find out what new tools we&#039;ve tried, tested or bought to improve our productions.
+Join me (+Ray Ortega) +Daniel J. Lewis and +Jason DeFillippo to find out what new tools weve tried, tested or bought to improve our productions.
 
-If you can&#039;t watch the live-stream, no worries, the archive will be immediately available via youtube.com/thepodcastersstudio.
+If you cant watch the live-stream, no worries, the archive will be immediately available via youtube.com/thepodcastersstudio.
 
 Links mentioned on this Round*
 
-	Mix-minus tutorial post at The Podcasters&#039; Studio
+	Mix-minus tutorial post at The Podcasters Studio
 	QuickRes: http://quickresapp.com/
 	Auphonic for automatic post-processing
 	Thunderbolt dock
@@ -1777,8 +1777,8 @@ You can subscribe to the RSS mailing list to get new Rounds delivered to your in
 To view the chat archive which includes links, please visit the Event page for this Round.
 
 Circle Ray on Google Plus to be notified of future live recordings, to meet other podcasters and share your opinions in the chat! See ya at the next Round!
-Sign up to appear on a future Podcasters&#039; Roundtable!
-*all links should be considered affiliate links. Not all are but some may be. There&#039;s no added cost to you yet you are supporting the show with a small percentage of your purchase. Thanks!</description>
+Sign up to appear on a future Podcasters Roundtable!
+*all links should be considered affiliate links. Not all are but some may be. Theres no added cost to you yet you are supporting the show with a small percentage of your purchase. Thanks!</description>
 		<content:encoded><![CDATA[<p><center><iframe src="https://www.youtube.com/embed/rycwX6zIHsw" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe></center><br />
 What new podcast gear, software or apps have you tried?</p>
 <p>As podcasters we are continually testing new items to help us improve the quality of our show or just make production easier. Those new things (gear, software, apps, etc.) might be as simple as a new service for recording Skype or as complex as a whole new hardware setup.</p>
@@ -1854,16 +1854,16 @@ To view the chat archive which includes links, please visit <a title="PR44 Event
 		<category><![CDATA[terms]]></category>
 		<description> 
 
-Podfading, normalization, Byte Range Requests... if you&#039;ve been podcasting long enough it&#039;s likely you are familiar with one or more of these terms. Podcasting has it&#039;s own language and depending on your experience level you are more or less schooled in all its jargon.
+Podfading, normalization, Byte Range Requests... if youve been podcasting long enough its likely you are familiar with one or more of these terms. Podcasting has its own language and depending on your experience level you are more or less schooled in all its jargon.
 
 Jargon is defined as, &quot;special words or expressions that are used by a particular profession or group and are difficult for others to understand.&quot; There is plenty about podcasting that is &quot;difficult to understand&quot; and this show aims to help you become more fluent in the language of a craft we all love and love to share...podcasting.
 
-Listen as +Ray Ortega, +Richard Farrar +Lloyd Hannesson, +Krystal O&#039;Conner and +Nick Seuberling have a fun discussion about some of these terms, their meaning and the issues that they bring up for podcast producers.
+Listen as +Ray Ortega, +Richard Farrar +Lloyd Hannesson, +Krystal OConner and +Nick Seuberling have a fun discussion about some of these terms, their meaning and the issues that they bring up for podcast producers.
 
 To view the chat archive which includes links, please visit the Event page for this Round.
 
 Circle Ray on Google Plus to be notified of future live recordings, to meet other podcasters and share your opinions in the chat! See ya at the next Round!
-Sign up to appear on a future Podcasters&#039; Roundtable!</description>
+Sign up to appear on a future Podcasters Roundtable!</description>
 		<content:encoded><![CDATA[<p><center><iframe src="//www.youtube.com/embed/ZL1KZ9Fq2U0?rel=0&amp;showinfo=0" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe></center>
 </p>
 <p><center><iframe src="//www.youtube.com/embed/xlPVQbwlkkc?rel=0&amp;showinfo=0" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe></center>&nbsp;</p>
@@ -1878,15 +1878,15 @@ Sign up to appear on a future Podcasters&#039; Roundtable!</description>
 		<slash:comments>2</slash:comments>
 		<enclosure url="http://traffic.libsyn.com/thepodcastersstudio/PR043_Podcast_Jargon.mp3" length="36033191" type="audio/mpeg" />
 		<itunes:subtitle>  Podfading, normalization, Byte Range Requests… if you’ve been podcasting long enough it’s likely you are familiar with one or more of these terms. Podcasting has it’s own language and depending on your experience level you are more or less schooled i...</itunes:subtitle>
-		<itunes:summary>Podfading, normalization, Byte Range Requests... if you&#039;ve been podcasting long enough it&#039;s likely you are familiar with one or more of these terms. Podcasting has it&#039;s own language and depending on your experience level you are more or less schooled in all its jargon.&lt;br /&gt;
+		<itunes:summary>Podfading, normalization, Byte Range Requests... if youve been podcasting long enough its likely you are familiar with one or more of these terms. Podcasting has its own language and depending on your experience level you are more or less schooled in all its jargon.&lt;br /&gt;
 &lt;br /&gt;
 Jargon is defined as, &quot;special words or expressions that are used by a particular profession or group and are difficult for others to understand.&quot; There is plenty about podcasting that is &quot;difficult to understand&quot; and this show aims to help you become more fluent in the language of a craft we all love and love to share...podcasting. &lt;br /&gt;
 &lt;br /&gt;
-Listen as +Ray Ortega, +Richard Farrar +Lloyd Hannesson, +Krystal O&#039;Conner and +Nick Seuberling have a fun discussion about some of these terms, their meaning and the issues that they bring up for podcast producers.&lt;br /&gt;
+Listen as +Ray Ortega, +Richard Farrar +Lloyd Hannesson, +Krystal OConner and +Nick Seuberling have a fun discussion about some of these terms, their meaning and the issues that they bring up for podcast producers.&lt;br /&gt;
 &lt;br /&gt;
 Circle Ray on Google Plus to be notified of future live recordings, to meet other podcasters and share your opinions in the chat! See ya at the next Round!&lt;br /&gt;
 &lt;br /&gt;
-*seeing this? It&#039;s from the iTunes summary section of PowerPress and you&#039;re witnessing a test;)</itunes:summary>
+*seeing this? Its from the iTunes summary section of PowerPress and youre witnessing a test;)</itunes:summary>
 		<itunes:author>Ray Ortega - Learn how to podcast</itunes:author>
 		<itunes:image href="http://podcastersroundtable.com/wp-content/uploads/2012/07/Podcasters_Roundtable_ITUNES_image1400x1400.jpg" />
 		<itunes:duration>1:14:49</itunes:duration>
@@ -1910,14 +1910,14 @@ Circle Ray on Google Plus to be notified of future live recordings, to meet othe
 		<category><![CDATA[show]]></category>
 		<description>Do you conduct interviews on your podcast? Do you want to? Do you want to get interviewed?
 
-Interviews and getting interviewed are two great additions to most podcasts. They are a fantastic way to grow your show, easily getting you in front of someone else&#039;s audience and they can be amazing content for your listeners as well.
+Interviews and getting interviewed are two great additions to most podcasts. They are a fantastic way to grow your show, easily getting you in front of someone elses audience and they can be amazing content for your listeners as well.
 
 Listen as +Ray Ortega, +Daniel J. Lewis, +David Jackson +Alton Gansky +Dave Westwood and Derek from +Comics Alternative to discuss podcast interviews.
 
 To view the chat archive which includes links, please visit the Event page for this Round.
 
 Circle Ray on Google Plus to be notified of future live recordings, to meet other podcasters and share your opinions in the chat! See ya at the next Round!
-Sign up to appear on a future Podcasters&#039; Roundtable!</description>
+Sign up to appear on a future Podcasters Roundtable!</description>
 		<content:encoded><![CDATA[<p><center><iframe src="//www.youtube.com/embed/GE4CVmiksyc?rel=0&amp;showinfo=0" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe></center><br />
 Do you conduct interviews on your podcast? Do you want to? Do you want to get interviewed?</p>
 <p>Interviews and getting interviewed are two great additions to most podcasts. They are a fantastic way to grow your show, easily getting you in front of someone else&#8217;s audience and they can be amazing content for your listeners as well.</p>
@@ -1932,7 +1932,7 @@ Do you conduct interviews on your podcast? Do you want to? Do you want to get in
 		<itunes:subtitle>Do you conduct interviews on your podcast? Do you want to? Do you want to get interviewed? Interviews and getting interviewed are two great additions to most podcasts. They are a fantastic way to grow your show,</itunes:subtitle>
 		<itunes:summary>Do you conduct interviews on your podcast? Do you want to? Do you want to get interviewed?&lt;br /&gt;
 &lt;br /&gt;
-Interviews and getting interviewed are two great additions to most podcasts. They are a fantastic way to grow your show, easily getting you in front of someone else&#039;s audience and they can be amazing content for your listeners as well.&lt;br /&gt;
+Interviews and getting interviewed are two great additions to most podcasts. They are a fantastic way to grow your show, easily getting you in front of someone elses audience and they can be amazing content for your listeners as well.&lt;br /&gt;
 &lt;br /&gt;
 Listen as +Ray Ortega, +Daniel J. Lewis, +David Jackson +Alton Gansky +Dave Westwood and Derek from +Comics Alternative to discuss podcast interviews.&lt;br /&gt;
 &lt;br /&gt;
@@ -1940,7 +1940,7 @@ To view the chat archive which includes links, please visit the Event page for t
 &lt;br /&gt;
 Circle Ray on Google Plus https://plus.google.com/+RayOrtega to be notified of future live recordings, to meet other podcasters and share your opinions in the chat! See ya at the next Round!&lt;br /&gt;
 &lt;br /&gt;
-Sign up to appear on a future Podcasters&#039; Roundtable http://podcastersroundtable.com/guest</itunes:summary>
+Sign up to appear on a future Podcasters Roundtable http://podcastersroundtable.com/guest</itunes:summary>
 		<itunes:author>Ray Ortega - Learn how to podcast</itunes:author>
 		<itunes:image href="http://podcastersroundtable.com/wp-content/uploads/2012/07/Podcasters_Roundtable_ITUNES_image1400x1400.jpg" />
 		<itunes:duration>1:21:46</itunes:duration>
@@ -1971,7 +1971,7 @@ To view the chat archive which includes links, please visit the Event page for t
 
 
 Circle Ray on Google Plus to be notified of future live recordings, to meet other podcasters and share your opinions in the chat! See ya at the next Round!
-Sign up to appear on a future Podcasters&#039; Roundtable!</description>
+Sign up to appear on a future Podcasters Roundtable!</description>
 		<content:encoded><![CDATA[<p><center><iframe src="//www.youtube.com/embed/5IXNGb8xBME" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe></center></p>
 <div class="Ct">
 <p>What do you think will happen to podcasting in 2015?</p>
@@ -2027,7 +2027,7 @@ To view the chat archive which includes links, please visit the Event page for t
 
 
 Circle Ray on Google Plus to be notified of future live recordings, to meet other podcasters and share your opinions in the chat! See ya at the next Round!
-Sign up to appear on a future Podcasters&#039; Roundtable!</description>
+Sign up to appear on a future Podcasters Roundtable!</description>
 		<content:encoded><![CDATA[<p><center><iframe src="//www.youtube.com/embed/qYv9d9WF-Bw" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe></center></p>
 <div class="Ct">
 <p>Move over iTunes, we want to talk about every other place you can put your podcast!</p>
@@ -2079,12 +2079,12 @@ Does your podcast have a home? Where do you post your episodes, shownotes, detai
 
 Many podcasters use their own hosted version of WordPress as a home base for their podcast but is this always the best decision?
 
-Listen as +Ray Ortega, +Daniel J. Lewis, +David Jackson +Nicholas Young and +Christopher Jones discuss options for your podcast&#039;s platform.
+Listen as +Ray Ortega, +Daniel J. Lewis, +David Jackson +Nicholas Young and +Christopher Jones discuss options for your podcasts platform.
 
 
 To view the chat archive which includes links, please visit the Event page for this Round.
 Circle Ray on Google Plus to be notified of future live recordings, to meet other podcasters and share your opinions in the chat! See ya at the next Round!
-Sign up to appear on a future Podcasters&#039; Roundtable!</description>
+Sign up to appear on a future Podcasters Roundtable!</description>
 		<content:encoded><![CDATA[<p><center><iframe src="//www.youtube.com/embed/9GrOzd6H9kk" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe></center><center></center><center> </center></p>
 <div class="Ct">
 <p>Does your podcast have a home? Where do you post your episodes, shownotes, details about the host(s), links, etc?</p>
@@ -2129,13 +2129,13 @@ To view the chat archive which includes links, please visit <a title="PR039 Even
 		<category><![CDATA[rights]]></category>
 		<category><![CDATA[trademark]]></category>
 		<description> 
-Podcasting has been referred to as the wild, wild West of media because essentially podcasters can do, say, show anything they want on their podcasts. This is true, you can do whatever you want. But what happens when someone else doesn&#039;t like what you&#039;re doing? Can you get in trouble...with the law?
+Podcasting has been referred to as the wild, wild West of media because essentially podcasters can do, say, show anything they want on their podcasts. This is true, you can do whatever you want. But what happens when someone else doesnt like what youre doing? Can you get in trouble...with the law?
 Listen as lawyers +Gordon Firemark and +Greg Gronholm join me (+Ray Ortega), +Daniel J. Lewis and +David Jackson  to discuss the legalities of podcasting.
-We cover the biggest questions most commonly asked like, how much of someone else&#039;s music can I use in my podcast? Or can I play an audio clip from another media source? And how about names, trademarks, copyright, we&#039;ll cover that too.
+We cover the biggest questions most commonly asked like, how much of someone elses music can I use in my podcast? Or can I play an audio clip from another media source? And how about names, trademarks, copyright, well cover that too.
 To view the chat archive which includes links, please visit the Event page for this Round.
 
 Circle Ray on Google Plus to be notified of future live recordings, to meet other podcasters and share your opinions in the chat! See ya at the next Round!
-Sign up to appear on a future Podcasters&#039; Roundtable!</description>
+Sign up to appear on a future Podcasters Roundtable!</description>
 		<content:encoded><![CDATA[<p><center><iframe src="//www.youtube.com/embed/3xYXBRE-WiQ" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe></center>&nbsp;</p>
 <p class="p1">Podcasting has been referred to as the wild, wild West of media because essentially podcasters can do, say, show anything they want on their podcasts. This is true, you can do whatever you want. But what happens when someone else doesn&#8217;t like what you&#8217;re doing? Can you get in trouble&#8230;with the law?</p>
 <p class="p1">Listen as lawyers <a title="Entertainment Law Update podcast" href="http://www.entertainmentlawupdate.com/" target="_blank">+Gordon Firemark</a> and <a title="The Patent Podcast" href="http://thepatentpodcast.com/" target="_blank">+Greg Gronholm</a> join me (<a href="http://thepodcastersstudio.com" target="_blank">+Ray Ortega</a>), <a href="http://theaudacitytopodcast.com" target="_blank">+Daniel J. Lewis</a> and <a title="School of Podcasting" href="http://schoolofpodcasting.com" target="_blank">+David Jackson</a>  to discuss the legalities of podcasting.</p>
@@ -2172,14 +2172,14 @@ To view the chat archive which includes links, please visit <a title="PR038 Even
 		<category><![CDATA[podcasting]]></category>
 		<category><![CDATA[problem]]></category>
 		<category><![CDATA[solving]]></category>
-		<description>What to do when all your best laid podcasting plans go out the window. What do you do when your interviewee cancels and you&#039;re about to go live? Or maybe the Internet goes down, your hard drive crashes or any number of problems that can arise when producing a podcast. How do you react, how do you adjust?
+		<description>What to do when all your best laid podcasting plans go out the window. What do you do when your interviewee cancels and youre about to go live? Or maybe the Internet goes down, your hard drive crashes or any number of problems that can arise when producing a podcast. How do you react, how do you adjust?
 
 Join me (+Ray Ortega), +Daniel J. Lewis,  +Harry Duran, +Corey Fineran, and +Jim Collison as we discuss what to do when all your plans fall apart at the last minute.
 
 To view the chat archive which includes links, please visit the Event page for this Round.
 
 Circle Ray on Google Plus to be notified of future live recordings, to meet other podcasters and share your opinions in the chat! See ya at the next Round!
-Sign up to appear on a future Podcasters&#039; Roundtable!</description>
+Sign up to appear on a future Podcasters Roundtable!</description>
 		<content:encoded><![CDATA[<p><center><iframe src="//www.youtube.com/embed/3sf26Ok-oDo" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe></center>What to do when all your best laid podcasting plans go out the window. What do you do when your interviewee cancels and you&#8217;re about to go live? Or maybe the Internet goes down, your hard drive crashes or any number of problems that can arise when producing a podcast. How do you react, how do you adjust?</p>
 <p>Join me (<a href="http://thepodcastersstudio.com" target="_blank">+Ray Ortega</a>), <a href="http://theaudacitytopodcast.com" target="_blank">+Daniel J. Lewis</a>,  <a title="Podcast Junkies" href="http://www.podcastjunkies.com/" target="_blank">+Harry Duran</a>, <a title="Ivy Envy" href="http://http://ivyenvy.com/" target="_blank">+Corey Fineran</a>, and <a title="The Average Guy TV" href="https://theaverageguy.tv/" target="_blank">+Jim Collison</a> as we discuss what to do when all your plans fall apart at the last minute.</p>
 <p>To view the <strong>chat archive</strong> which includes links, please visit <a title="PR036 Event page" href="https://plus.google.com/u/0/events/cru033tmj6j2i903a70r6i0s8c8" target="_blank">the Event page for this Round.</a></p>
@@ -2220,7 +2220,7 @@ Join me (+Ray Ortega), +Daniel J. Lewis +David Jackson +Steve Lee +Dave Lee and 
 To view the chat archive which includes links, please visit the Event page for this Round.
 
 Circle Ray on Google Plus to be notified of future live recordings, to meet other podcasters and share your opinions in the chat! See ya at the next Round!
-Sign up to appear on a future Podcasters&#039; Roundtable!</description>
+Sign up to appear on a future Podcasters Roundtable!</description>
 		<content:encoded><![CDATA[<p><center><iframe src="//www.youtube.com/embed/0fIPJZcRroM" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe></center>&nbsp;</p>
 <p>Join the Roundtable in celebrating <a title="National/International Podcast Day" href="http://nationalpodcastday.com" target="_blank">National Podcast Day (NPD)</a>! September 30th, 2014 marks the first official NPD. Spearheaded by Steve Lee from NetCast Studio, NPD was created to promote greater podcast awareness around the globe. We gathered to talk about the origins of NPD, what podcasters have been doing to promote podcasting to others, the future of podcasting and NPD as well as many other great topics to honor podcasting! AND, very exciting news, during this stream we broke the news that National Podcast Day will become International Podcast Day!</p>
 <p>Join me (<a href="http://thepodcastersstudio.com" target="_blank">+Ray Ortega</a>), <a href="http://theaudacitytopodcast.com" target="_blank">+Daniel J. Lewis</a> <a title="School of Podcasting" href="http://schoolofpodcasting.com" target="_blank">+David Jackson</a> <a title="NetCast Studio" href="http://netcaststudio.com" target="_blank">+Steve Lee +Dave Lee </a>and <a href="http://spnt.tv" target="_blank">+Nick Seuberling</a>  as we discuss raising podcast awareness.</p>
@@ -2264,14 +2264,14 @@ To view the chat archive which includes links, please visit <a title="PR036 Even
 		<category><![CDATA[SEO]]></category>
 		<category><![CDATA[specs]]></category>
 		<category><![CDATA[title]]></category>
-		<description>This Round is all about iTunes. Whatever questions, ideas, tips that stirred up, that&#039;s what we discussed. Literally any and everything to do with iTunes as it relates to podcasting.
+		<description>This Round is all about iTunes. Whatever questions, ideas, tips that stirred up, thats what we discussed. Literally any and everything to do with iTunes as it relates to podcasting.
 
-Watch me (+Ray Ortega), +Daniel J. Lewis +David Jackson +Angelo Mandato +Krystal O&#039;Connor +Rich Baxter +Lou Mongello and +Steve Stewart as we discuss podcasting&#039;s relationship with iTunes.
+Watch me (+Ray Ortega), +Daniel J. Lewis +David Jackson +Angelo Mandato +Krystal OConnor +Rich Baxter +Lou Mongello and +Steve Stewart as we discuss podcastings relationship with iTunes.
 
 To view the chat archive which includes links, please visit the Event page for this Round.
 
 Circle Ray on Google Plus to be notified of future live recordings, to meet other podcasters and share your opinions in the chat! See ya at the next Round!
-Sign up to appear on a future Podcasters&#039; Roundtable!</description>
+Sign up to appear on a future Podcasters Roundtable!</description>
 		<content:encoded><![CDATA[<p><center><iframe src="//www.youtube.com/embed/YH8QEw75vtI?rel=0" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe></center>This Round is all about iTunes. Whatever questions, ideas, tips that stirred up, that&#8217;s what we discussed. Literally any and everything to do with iTunes as it relates to podcasting.</p>
 <p>Watch me (<a href="http://thepodcastersstudio.com" target="_blank">+Ray Ortega</a>), <a href="http://theaudacitytopodcast.com" target="_blank">+Daniel J. Lewis</a> <a title="School of Podcasting" href="http://schoolofpodcasting.com" target="_blank">+David Jackson</a> <a title="blubrry" href="http://blubrry.com" target="_blank">+Angelo Mandato</a> <a title="libsyn" href="http://libsyn.com" target="_blank">+Krystal O&#8217;Connor</a> <a title="Baseball Talk Radio" href="http://baseballtalkradio.com" target="_blank">+Rich Baxter</a> <a title="WDW Radio" href="http://wdwradio.com" target="_blank">+Lou Mongello</a> and <a title="Money Plan SOS" href="http://moneyplansos.com" target="_blank">+Steve Stewart</a> as we discuss podcasting&#8217;s relationship with iTunes.</p>
 <p>To view the <strong>chat archive</strong> which includes links, please visit <a title="PR035 Event page" href="https://plus.google.com/u/0/events/cvu9i4f5cae1af7u8o96v6o2vm0" target="_blank">the Event page for this Round.</a></p>
@@ -2311,7 +2311,7 @@ To view the chat archive which includes links, please visit <a title="PR035 Even
 		<category><![CDATA[worth]]></category>
 		<description>The entire Roundtable crew just returned from Podcast Movement, a new podcasting conference held in Texas, and we had a great time. We talk about this conference and its impact on podcasting as well as the news coming out of the New Media Expo that they are teaming up with NAB in 2015 for a mega conference.
 
-As a podcaster, which conference should you attend? It&#039;s fantastic that we have choices but budgets are limited and often times we must choose. Watch +Ray Ortega, +Daniel J. Lewis, +Elsie Escobar +Jared Rypkema +Juergen Berkessel +Addy Saucedo and +Dustin Hartzler discuss the value of these two conferences and find out if there is something for you as a podcaster at one of these shows.
+As a podcaster, which conference should you attend? Its fantastic that we have choices but budgets are limited and often times we must choose. Watch +Ray Ortega, +Daniel J. Lewis, +Elsie Escobar +Jared Rypkema +Juergen Berkessel +Addy Saucedo and +Dustin Hartzler discuss the value of these two conferences and find out if there is something for you as a podcaster at one of these shows.
 
 To view the chat archive which includes links, please visit the Event page for this Round.
 
@@ -2321,13 +2321,13 @@ Links mentioned:
 	Create the Perfect About Page
 
 Side note:
-Noticed something while editing Podcasters&#039; Roundtable. Custom overlay in HOA breaks full-screen view pic.twitter.com/X3o3BkZOgf
+Noticed something while editing Podcasters Roundtable. Custom overlay in HOA breaks full-screen view pic.twitter.com/X3o3BkZOgf
 
 — Ray Ortega (@PodcastHelper) September 2, 2014
 
 
 Circle Ray on Google Plus to be notified of future live recordings, to meet other podcasters and share your opinions in the chat! See ya at the next Round!
-Sign up to appear on a future Podcasters&#039; Roundtable!</description>
+Sign up to appear on a future Podcasters Roundtable!</description>
 		<content:encoded><![CDATA[<p><center><iframe src="//www.youtube.com/embed/NmD2aPEQSDc?rel=0" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe></center>The entire Roundtable crew just returned from Podcast Movement, a new podcasting conference held in Texas, and we had a great time. We talk about this conference and its impact on podcasting as well as the news coming out of the New Media Expo that they are teaming up with NAB in 2015 for a mega conference.</p>
 <p>As a podcaster, which conference should you attend? It&#8217;s fantastic that we have choices but budgets are limited and often times we must choose. Watch <a href="http://thepodcastersstudio.com" target="_blank">+Ray Ortega</a>, <a href="http://theaudacitytopodcast.com" target="_blank">+Daniel J. Lewis</a>, <a href="http://shepodcasts.com" target="_blank">+Elsie Escobar</a> <a href="http://buzzsprout.com/blog" target="_blank">+Jared Rypkema</a> <a href="http://positivitystrategist.com/" target="_blank">+Juergen Berkessel</a> <a href="http://modernvintageradio.com" target="_blank">+Addy Saucedo</a> and <a href="http://yourwebsiteengineer.com" target="_blank">+Dustin Hartzler</a> discuss the value of these two conferences and find out if there is something for you as a podcaster at one of these shows.</p>
 <p>To view the <strong>chat archive</strong> which includes links, please visit <a title="PR034 Event page on G+" href="https://plus.google.com/u/0/events/c67r6odnionepu7e1eb207hgpu4" target="_blank">the Event page for this Round</a>.</p>
@@ -2380,11 +2380,11 @@ Noticed something while editing Podcasters&#8217; Roundtable. Custom overlay in 
 		<category><![CDATA[new]]></category>
 		<category><![CDATA[podcasting]]></category>
 		<category><![CDATA[promotion]]></category>
-		<description>It&#039;s an &quot;open mic&quot; Round where everyone in the chat room had a chance to join the Round with whatever topic they thought was important or interesting. We pulled in the best topics over the one-hour broadcast.
+		<description>Its an &quot;open mic&quot; Round where everyone in the chat room had a chance to join the Round with whatever topic they thought was important or interesting. We pulled in the best topics over the one-hour broadcast.
 
 Join me (+Ray Ortega), +Daniel J. Lewis, and +Dave Jackson and others as we tackle topics such as podcast marketing, podcast categories, &quot;new media&quot; as a label, creating a legacy through podcasting, what happens to your podcast after you die, podcasting market mistakes and building an email list for your show.
 Circle Ray on Google Plus to be notified of future live recordings, to meet other podcasters and share your opinions in the chat! See ya at the next Round!
-Sign up to appear on a future Podcasters&#039; Roundtable!</description>
+Sign up to appear on a future Podcasters Roundtable!</description>
 		<content:encoded><![CDATA[<p><iframe src="//www.youtube.com/embed/H6oKLC4EMTc" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe></p>
 <p class="p1">It&#8217;s an &#8220;open mic&#8221; Round where everyone in the chat room had a chance to join the Round with whatever topic they thought was important or interesting. We pulled in the best topics over the one-hour broadcast.</p>
 <p><img class="alignright" src="http://podcastersroundtable.com/wp-content/uploads/2012/07/Podcasters_Roundtable_RSS2_300x300.jpg" alt="Podcasters' Roundtable" width="240" height="240" /></p>
@@ -2434,7 +2434,7 @@ So what are the podcasting best practices; those elements common to most podcast
 On this Round join me (+Ray Ortega), +Daniel J. Lewis, and +Dave Jackson, , +Charles McFall, and +Jon Rojas in a discussion about the most common elements that go into a quality podcast production.
 
 Circle Ray on Google Plus to be notified of future live recordings, to meet other podcasters and share your opinions in the chat! See ya at the next Round!
-Sign up to appear on a future Podcasters&#039; Roundtable!</description>
+Sign up to appear on a future Podcasters Roundtable!</description>
 		<content:encoded><![CDATA[<p><center><iframe src="//www.youtube.com/embed/hRd9iaemQOE?rel=0" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe></center>&nbsp;</p>
 <p>One of the cool parts about podcasting is that the show is truly yours. You decide what to say, how it looks/sounds, where to publish and hundreds of other decisions that make up your podcast.<img class="alignright" src="http://podcastersroundtable.com/wp-content/uploads/2012/07/Podcasters_Roundtable_RSS2_300x300.jpg" alt="Podcasters' Roundtable" width="240" height="240" /></p>
 <p>But with no must-do rules to follow there is a large continuum of quality content in podcasting.</p>
@@ -2483,7 +2483,7 @@ On this Round join me (<a href="http://thepodcastersstudio.com">+Ray Ortega</a>)
 
 What does a podcaster do when they want to record a podcast outside of their &quot;studio?&quot; Find a more compact setup of course! Or maybe your studio is always mobile? Join myself (+Ray Ortega), +Dave Jackson, +Rob Walch +David Anderson, +Jason Bryant and Jeffrey Powers as we discuss all the ways to record a podcast on the go.
 
-Do you have to sacrifice quality? If so, is it worth it? What are the biggest challenges to being outside of your normal setup and how do you overcome them? This Round aired live on June 20, 2014 at 4pm EST, GMT -5. If you&#039;d like to read all the comments including lots of great links to the devices and software people are using in the mobile setups check out the event page on G+.
+Do you have to sacrifice quality? If so, is it worth it? What are the biggest challenges to being outside of your normal setup and how do you overcome them? This Round aired live on June 20, 2014 at 4pm EST, GMT -5. If youd like to read all the comments including lots of great links to the devices and software people are using in the mobile setups check out the event page on G+.
 
 *Links mentioned on this Round:
 
@@ -2493,19 +2493,19 @@ Do you have to sacrifice quality? If so, is it worth it? What are the biggest ch
 	USB Audio Recorder for Android
 	Two Lav microphones in one - Giant Squid microphones
 	Sony ICD-PX333 Digital Voice Recorder. Cost around $50. Slightly bigger than a pack of gum and no fragile parts.
-	Rob&#039;s mix-minus device for iPhone http://recapmycalls.com
+	Robs mix-minus device for iPhone http://recapmycalls.com
 	I/O devices for smartphones at http://www.esdevices.com/
 	Rode SC6 Dual TRRS Input and Headphone Output for Smartphones
 	Article from TSA about traveling with batteries 
 	Auphonic for auto post processing and some editing
 	Recordium for iOS
-	Rob&#039;s NMX presentation about podcasting on iOS 
+	Robs NMX presentation about podcasting on iOS 
 	iOS recording and editing - TWISTED WAVE
 	Multitrack DAW for iOS for editing
 	ART Dual Pre for multi-mic mobile recording
 
 Circle Ray on Google Plus to be notified of future live recordings, to meet other podcasters and share your opinions in the chat! See ya at the next Round!
-Sign up to appear on a future Podcasters&#039; Roundtable!
+Sign up to appear on a future Podcasters Roundtable!
 * all links should be considered affiliate links. Read my ethics statement for more info.</description>
 		<content:encoded><![CDATA[<p><center><iframe src="//www.youtube.com/embed/0E6SFWWpfjY?rel=0" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe></center>&nbsp;</p>
 <p>What does a podcaster do when they want to record a podcast outside of their &#8220;studio?&#8221; Find a more compact setup of course! Or maybe your studio is always mobile? Join myself (<a href="http://thepodcastersstudio.com">+Ray Ortega</a>), <a href="http://schoolofpodcasting.com">+Dave Jackson</a>, +Rob Walch +David Anderson, +Jason Bryant and Jeffrey Powers as we discuss all the ways to record a podcast on the go.</p>
@@ -2582,11 +2582,11 @@ Do you have to sacrifice quality? If so, is it worth it? What are the biggest ch
 		<category><![CDATA[viewers]]></category>
 		<description> 
 
-+Ray Ortega, +Daniel J. Lewis, and +Dave Jackson, recreate their presentation given at New Media Expo 2014 titled, &quot;How to Grow Your Audience from 100&#039;s to 1000&#039;s.&quot;
++Ray Ortega, +Daniel J. Lewis, and +Dave Jackson, recreate their presentation given at New Media Expo 2014 titled, &quot;How to Grow Your Audience from 100s to 1000s.&quot;
 
-For those of you looking for new ways to increase the number of people who listen and/or watch your podcast this Round will provide well over 50 different strategies for increasing your podcast&#039;s audience.
+For those of you looking for new ways to increase the number of people who listen and/or watch your podcast this Round will provide well over 50 different strategies for increasing your podcasts audience.
 
-Presented back in January 2014 at the New Media Expo, this panel was originally planned to be reposted on the Podcasters&#039; Roundtable site at podcastersroundtable.com/nmx14. Unfortunately NMX lost our recoding. To make up for that, we&#039;re doing it over, live!
+Presented back in January 2014 at the New Media Expo, this panel was originally planned to be reposted on the Podcasters Roundtable site at podcastersroundtable.com/nmx14. Unfortunately NMX lost our recoding. To make up for that, were doing it over, live!
 
 Listen to get just a taste of the many ways you can find new people to listen to your show or retain the viewers you already have.
 
@@ -2596,7 +2596,7 @@ Links mentioned on this Round:
 	Enter this into Google to see who is linking to your website: Google: link: yourdomain.com (go to google.com and enter Link: WHATEVER_DOMAIN_YOU_WANT_TO_VIEW.com)
 
 Circle Ray on Google Plus to be notified of future live recordings, to meet other podcasters and share your opinions in the chat! See ya at the next Round!
-Sign up to appear on a future Podcasters&#039; Roundtable!</description>
+Sign up to appear on a future Podcasters Roundtable!</description>
 		<content:encoded><![CDATA[<p><center><iframe src="//www.youtube.com/embed/86LHMol7wFI?rel=0" width="640" height="360" frameborder="0" allowfullscreen="allowfullscreen"></iframe></center>&nbsp;</p>
 <p><a href="http://thepodcastersstudio.com">+Ray Ortega</a>, <a href="http://theaudacitytopodcast.com">+Daniel J. Lewis</a>, and <a href="http://schoolofpodcasting.com">+Dave Jackson</a>, recreate their presentation given at New Media Expo 2014 titled, &#8220;How to Grow Your Audience from 100&#8217;s to 1000&#8217;s.&#8221;</p>
 <p>For those of you looking for new ways to increase the number of people who listen and/or watch your podcast this Round will provide well over 50 different strategies for increasing your podcast&#8217;s audience.<img class="alignright" src="http://podcastersroundtable.com/wp-content/uploads/2012/07/Podcasters_Roundtable_RSS2_300x300.jpg" alt="Podcasters' Roundtable" width="240" height="240" /></p>
@@ -2645,7 +2645,7 @@ This Round features: +Ray Ortega, +Daniel J. Lewis, +Dave Jackson, +Neil Perrin,
 
 
 Circle Ray on Google Plus to be notified of future live recordings, to meet other podcasters and share your opinions in the chat! See ya at the next Round!
-Sign up to appear on a future Podcasters&#039; Roundtable!</description>
+Sign up to appear on a future Podcasters Roundtable!</description>
 		<content:encoded><![CDATA[<p><center><iframe src="//www.youtube.com/embed/yZaf79y_c4c?rel=0" width="640" height="360" frameborder="0" allowfullscreen="allowfullscreen"></iframe></center>How much personality in your show is too much? Do you fear being &#8220;vulnerable&#8221; with your audience or do you share everything?</p>
 <p>This Round features: <a href="http://thepodcastersstudio.com">+Ray Ortega</a>, <a href="http://theaudacitytopodcast.com">+Daniel J. Lewis</a>, <a href="http://schoolofpodcasting.com">+Dave Jackson</a>, <a href="http://geekwithglasses.net">+Neil Perrin</a>, <a href="http://geekazine.com">+Jeffrey Powers</a>, and <a href="http://battleshippretension.com">+Tyler Smith</a>.</p>
 <p><img class="alignright" src="http://podcastersroundtable.com/wp-content/uploads/2012/07/Podcasters_Roundtable_RSS2_300x300.jpg" alt="Podcasters' Roundtable" width="240" height="240" /></p>
@@ -2680,16 +2680,16 @@ This Round features: <a href="http://thepodcastersstudio.com">+Ray Ortega</a>, <
 		<category><![CDATA[podcasting]]></category>
 		<description>Is podcasting really any different than old media? Are we, as podcasters, simply falling into the mold created by media producers before us?
 
-Podcasting may be one of the few remaining truly free mediums. There are no rules, no gatekeepers, no censors, nothing telling you what you can and can&#039;t do with your show. So why does your podcast sound like all the rest or worse, like radio?;)
+Podcasting may be one of the few remaining truly free mediums. There are no rules, no gatekeepers, no censors, nothing telling you what you can and cant do with your show. So why does your podcast sound like all the rest or worse, like radio?;)
 
-This is a fun Roundtable in the spirit of the Roundtable&#039;s origins, podcasters sitting around on a group call discussing whatever comes to mind. We jump off from this topic of &quot;breaking the mold&quot; as it refers to content production styles and see where it goes.
+This is a fun Roundtable in the spirit of the Roundtables origins, podcasters sitting around on a group call discussing whatever comes to mind. We jump off from this topic of &quot;breaking the mold&quot; as it refers to content production styles and see where it goes.
 
 This Round features: +Ray Ortega, +Daniel J. Lewis, +Paul Blais, +Corey Fineran, and +Gary Fawcett.
 
 
 
 Circle Ray on Google Plus to be notified of future live recordings, to meet other podcasters and share your opinions in the chat! See ya at the next Round!
-Sign up to appear on a future Podcasters&#039; Roundtable!</description>
+Sign up to appear on a future Podcasters Roundtable!</description>
 		<content:encoded><![CDATA[<p><center><iframe src="//www.youtube.com/embed/Eh1EEigZVWk?rel=0" width="640" height="360" frameborder="0" allowfullscreen="allowfullscreen"></iframe></center>Is podcasting really any different than old media? Are we, as podcasters, simply falling into the mold created by media producers before us?</p>
 <p>Podcasting may be one of the few remaining truly free mediums. There are no rules, no gatekeepers, no censors, nothing telling you what you can and can&#8217;t do with your show. So why does your podcast sound like all the rest or worse, like radio?;)</p>
 <p>This is a fun Roundtable in the spirit of the Roundtable&#8217;s origins, podcasters sitting around on a group call discussing whatever comes to mind. We jump off from this topic of &#8220;breaking the mold&#8221; as it refers to content production styles and see where it goes.</p>
@@ -2726,14 +2726,14 @@ This Round features: <a href="http://thepodcastersstudio.com">+Ray Ortega</a>, <
 		<category><![CDATA[guests]]></category>
 		<category><![CDATA[peeves]]></category>
 		<category><![CDATA[podcasting]]></category>
-		<description>It&#039;s time for another Round of Podcasting Peeves. What are those things that drive you crazy about podcasters, podcasts, the podcasting industry, etc?
+		<description>Its time for another Round of Podcasting Peeves. What are those things that drive you crazy about podcasters, podcasts, the podcasting industry, etc?
 
 This Round features: +Ray Ortega, +David Jackson +Daniel J. Lewis  +Kenn Blanchard +Jordan Harbinger +Ryan Parker and +Paul Blais.
 
 
 
 Circle me on Google Plus to be notified of future live recordings, to meet other podcasters and share your opinions in the chat! See ya at the next Round!
-Sign up to appear on a future Podcasters&#039; Roundtable!
+Sign up to appear on a future Podcasters Roundtable!
 Links mentioned on this Round
 
 ScheduleOne - Online scheduling to help with setting up podcast interviews.</description>
@@ -2776,14 +2776,14 @@ Links mentioned on this Round<br />
 		<category><![CDATA[production]]></category>
 		<category><![CDATA[streaming]]></category>
 		<category><![CDATA[video]]></category>
-		<description>Should you add live-streaming to your podcast production? Recording live won&#039;t give you a big boost in numbers, isn&#039;t likely to help you get discovered, and probably won&#039;t attract a lot of participation all while adding more to your workflow.
+		<description>Should you add live-streaming to your podcast production? Recording live wont give you a big boost in numbers, isnt likely to help you get discovered, and probably wont attract a lot of participation all while adding more to your workflow.
 
 So why go live? Watch +Ray Ortega, +David Jackson +Daniel J. Lewis +Rob Cesternino +Andrew Zarian and +Mike Howard discuss the good and bad of live-streaming your show
 
 
 
 Circle me on Google Plus to be notified of future live recordings, to meet other podcasters and share your opinions in the chat! See ya at the next Round!
-Sign up to be notified and appear on a future Podcasters&#039; Roundtable!
+Sign up to be notified and appear on a future Podcasters Roundtable!
  </description>
 		<content:encoded><![CDATA[<p><iframe src="//www.youtube.com/embed/WsE5NYxKzYA?rel=0" width="640" height="360" frameborder="0" allowfullscreen="allowfullscreen"></iframe></p>
 <p>Should you add live-streaming to your podcast production? Recording live won&#8217;t give you a big boost in numbers, isn&#8217;t likely to help you get discovered, and probably won&#8217;t attract a lot of participation all while adding more to your workflow.</p>
@@ -2823,11 +2823,11 @@ So why go live? Watch <a href="http://thepodcastersstudio.com" target="_blank">+
 		<category><![CDATA[podcasting]]></category>
 		<category><![CDATA[press]]></category>
 		<category><![CDATA[promotion]]></category>
-		<description>What do you do if someone promotes your podcast but you don&#039;t necessarily agree with their content? Do you care? Is there such a thing as &quot;bad press?&quot;
+		<description>What do you do if someone promotes your podcast but you dont necessarily agree with their content? Do you care? Is there such a thing as &quot;bad press?&quot;
 
-At any time, someone can share your content with their own audience be it a simple word-of-mouth mention or sharing your logo, content, or promo. But what if your personal beliefs or brand don&#039;t align with theirs? Do you worry that you&#039;ll be seen as associated with their brand or is any promo, good promo?
+At any time, someone can share your content with their own audience be it a simple word-of-mouth mention or sharing your logo, content, or promo. But what if your personal beliefs or brand dont align with theirs? Do you worry that youll be seen as associated with their brand or is any promo, good promo?
 
-Watch +Ray Ortega, +David Jackson +Daniel J. Lewis +Mignon Fogarty and +John Wilkerson discuss the topic of podcast promotion and whether or not you feel it&#039;s necessary to &quot;police&quot; your brand.</description>
+Watch +Ray Ortega, +David Jackson +Daniel J. Lewis +Mignon Fogarty and +John Wilkerson discuss the topic of podcast promotion and whether or not you feel its necessary to &quot;police&quot; your brand.</description>
 		<content:encoded><![CDATA[<p>What do you do if someone promotes your podcast but you don&#8217;t necessarily agree with their content? Do you care? Is there such a thing as &#8220;bad press?&#8221;</p>
 <p><center><iframe src="//www.youtube.com/embed/TNtyKXMTujg?rel=0" height="360" width="640" allowfullscreen="" frameborder="0"></iframe></center>At any time, someone can share your content with their own audience be it a simple word-of-mouth mention or sharing your logo, content, or promo. But what if your personal beliefs or brand don&#8217;t align with theirs? Do you worry that you&#8217;ll be seen as associated with their brand or is any promo, good promo?</p>
 <p>Watch <a href="http://thepodcastersstudio.com">+Ray Ortega</a>, <a href="http://schoolofpodcasting.com">+David Jackson</a> <a href="http://theaudacitytopodcast.com">+Daniel J. Lewis</a> <a href="http://www.quickanddirtytips.com/grammar-girl">+Mignon Fogarty</a> and <a href="http://thewiredhomeschool.com/">+John Wilkerson</a> discuss the topic of podcast promotion and whether or not you feel it&#8217;s necessary to &#8220;police&#8221; your brand.</p>
@@ -2865,7 +2865,7 @@ Watch +Ray Ortega, +David Jackson +Daniel J. Lewis  +Rob Walch, +Chase Nunes  an
 
 
 Circle me on Google Plus to be notified of future live recordings, to meet other podcasters and share your opinions in the chat! See ya at the next Round!
-Sign up to appear on a future Podcasters&#039; Roundtable!
+Sign up to appear on a future Podcasters Roundtable!
  
 
  </description>
@@ -2919,7 +2919,7 @@ Attending a conference is rarely a cheap endeavor. You spend money on travel, lo
 
 On this Round, Ray Ortega, Daniel J. Lewis, David Jackson and a whole host of new Roundtablers, chosen from the audience (see below), discuss the value of attending a conference with special focus on the 2014 NMX show in Las Vegas.
 
-Special thanks to everyone who showed up to watch us record this Round, to Nick Seuberling for doing an awesome job managing the guest microphone and Megan Enloe from NMX for helping to make this happen. I&#039;ve been told that NMX loved the Round and is excited to have us back on the live &quot;stage&quot; again next year. We hope to see you there!
+Special thanks to everyone who showed up to watch us record this Round, to Nick Seuberling for doing an awesome job managing the guest microphone and Megan Enloe from NMX for helping to make this happen. Ive been told that NMX loved the Round and is excited to have us back on the live &quot;stage&quot; again next year. We hope to see you there!
 
 Returning Roundtablers making an appearance on this Round include: Nick Seuberling, Ibarionex Perello, Ben Adam-Smith, Corey Fineran
 
@@ -2970,9 +2970,9 @@ New Roundtablers featured on this Round: <a href="https://twitter.com/JChandanai
 		<category><![CDATA[to]]></category>
 		<description>John Lee Dumas is getting a lot of attention these days; in part due to the money he is making with his podcast. No doubt his story and success are inspiring others to start their own podcast. In some cases, motivated to do exactly what John is doing.... making a lot of money.
 
-What&#039;s the danger in starting a podcast based on someone else&#039;s success? Can you start a podcast and make tons of money too? Are you the next John Lee Dumas?
+Whats the danger in starting a podcast based on someone elses success? Can you start a podcast and make tons of money too? Are you the next John Lee Dumas?
 
-Watch myself (Ray Ortega), +Daniel J. Lewis +David Jackson +Steve Stewart and +John Lee Dumas himself, discuss a blog post Steve wrote entitled: The John Lee Dumas Effect. We&#039;ll find out if you can podcast your way to riches and discuss the pitfalls of trying to copy someone else&#039;s success.
+Watch myself (Ray Ortega), +Daniel J. Lewis +David Jackson +Steve Stewart and +John Lee Dumas himself, discuss a blog post Steve wrote entitled: The John Lee Dumas Effect. Well find out if you can podcast your way to riches and discuss the pitfalls of trying to copy someone elses success.
 
 
 
@@ -2981,10 +2981,10 @@ Circle me on Google Plus to be notified of future live recordings, to meet other
 Links mentioned on this episode:
 
 	Sign up to appear on the Roundtable
-	Podcast Sponsorships: All the goods - John&#039;s awesome post about how to get sponsors for your podcast
-	Podcast Launch - John&#039;s podcasting book
+	Podcast Sponsorships: All the goods - Johns awesome post about how to get sponsors for your podcast
+	Podcast Launch - Johns podcasting book
 
-John&#039;s Free Templates (Please click-through to see all the templates listed below at the bottom of the post before the comments)
+Johns Free Templates (Please click-through to see all the templates listed below at the bottom of the post before the comments)
 
 	How to approach a sponsor for the first time
 	EntrepreneurOnFire’s Price Chart
@@ -2992,7 +2992,7 @@ John&#039;s Free Templates (Please click-through to see all the templates listed
 	Excel spreadsheet template of Dates and Dollars sponsorship proposal
 	Email template for guests
 
-Sign up to appear on a future Podcasters&#039; Roundtable!
+Sign up to appear on a future Podcasters Roundtable!
  
 
  </description>
@@ -3063,9 +3063,9 @@ Links mentioned on this episode:<br />
 		<category><![CDATA[podcaster]]></category>
 		<category><![CDATA[podcasting]]></category>
 		<category><![CDATA[software]]></category>
-		<description>The holiday season is a great time to give thanks and dream of new podcasting goodies. So what are podcasters thankful for and what kind of podcasting stuff makes a podcaster&#039;s wish list?
+		<description>The holiday season is a great time to give thanks and dream of new podcasting goodies. So what are podcasters thankful for and what kind of podcasting stuff makes a podcasters wish list?
 
-Get ready for a fun-filled discussion about the things we&#039;ve enjoyed about podcasting over the last year(s) and those items (gear, software, etc.) that we hope to enjoy in 2014.
+Get ready for a fun-filled discussion about the things weve enjoyed about podcasting over the last year(s) and those items (gear, software, etc.) that we hope to enjoy in 2014.
 
 Watch, myself (Ray Ortega), +David Jackson, +Daniel J. Lewis,, and new Roundtablers +Andrew Zarian and +Ibarionex Perello to discuss the gifts of podcasting.
 
@@ -3076,7 +3076,7 @@ Circle me at gplus.to/rayortega to be notified of future live recordings, to mee
 Links mentioned on this episode:
 
 	Sign up to appear on the Roundtable
-	Andrew Zarian&#039;s studio tour
+	Andrew Zarians studio tour
 
  
 
@@ -3132,7 +3132,7 @@ Links mentioned on this episode:<br />
 		<category><![CDATA[votes]]></category>
 		<description>Podcast award season is here and that means asking your audience for votes, in some cases, constantly asking them. How do you deal with this as a podcaster...as a listener? Are we asking too much or is it a great way to show your support of a show?
 
-Beyond awards, we&#039;re repeatedly faced with asking our audience for all many different things. We ask for reviews, ratings, feedback, sign-ups, and a whole host of other things that we put into every episode.
+Beyond awards, were repeatedly faced with asking our audience for all many different things. We ask for reviews, ratings, feedback, sign-ups, and a whole host of other things that we put into every episode.
 
 So how much is too much? Join me (Ray Ortega), +David Jackson, +Nick Seuberling +Corey Fineran +Izabela Russell and +Ileane Smith to discuss the balance between asking your audience to support your show and wearing them out asking for too much.
 
@@ -3235,7 +3235,7 @@ Circle me at <a title="Ray on Google Plus" href="http://gplus.to/rayortega" targ
 
 Have you heard that you need a podcast or that podcasting is the hottest thing going and you want to start your own? Have you asked yourself if a podcast is really the best way to spend your limited free time?
 
-Listen to +Daniel J. Lewis +David Jackson +Lisa B. Marshall and myself (Ray Ortega) discuss when a podcast is and isn&#039;t the best form of content creation for your brand, message or hobby.
+Listen to +Daniel J. Lewis +David Jackson +Lisa B. Marshall and myself (Ray Ortega) discuss when a podcast is and isnt the best form of content creation for your brand, message or hobby.
 
 
 
@@ -3282,7 +3282,7 @@ Rountablers featured on this Round included +<a href="http://schoolofpodcasting.
 		<category><![CDATA[old]]></category>
 		<category><![CDATA[past]]></category>
 		<category><![CDATA[podcaster]]></category>
-		<description>Have you ever considered deleting an old podcast episode or updating it because the information was now out of date? Perhaps you&#039;ve been asked to take an old episode out of your library because the information is now wrong. What would you do?
+		<description>Have you ever considered deleting an old podcast episode or updating it because the information was now out of date? Perhaps youve been asked to take an old episode out of your library because the information is now wrong. What would you do?
 
 +Daniel J. Lewis +David Jackson +Steve Stewart +Kelly Mitchell and myself (Ray Ortega) discuss what to do when time makes your archive irrelevant or just plain wrong.
 
@@ -3301,7 +3301,7 @@ Rountablers featured on this Round included +David Jackson, +Daniel J. Lewis, +K
 		<slash:comments>2</slash:comments>
 		<enclosure url="http://traffic.libsyn.com/thepodcastersstudio/PR017.mp3" length="49407239" type="audio/mpeg" />
 		<itunes:subtitle>Have you ever considered deleting an old podcast episode or updating it because the information was now out of date? Perhaps you’ve been asked to take an old episode out of your library because the information is now wrong. What would you do?</itunes:subtitle>
-		<itunes:summary>Have you ever considered deleting an old podcast episode or updating it because the information was now out of date? Perhaps you&#039;ve been asked to take an old episode out of your library because the information is now wrong. What would you do?&lt;br /&gt;
+		<itunes:summary>Have you ever considered deleting an old podcast episode or updating it because the information was now out of date? Perhaps youve been asked to take an old episode out of your library because the information is now wrong. What would you do?&lt;br /&gt;
 &lt;br /&gt;
 +Daniel J. Lewis +David Jackson +Steve Stewart +Kelly Mitchell and myself (Ray Ortega) discuss what to do when time makes your archive irrelevant or just plain wrong.</itunes:summary>
 		<itunes:author>Ray Ortega - Learn how to podcast</itunes:author>
@@ -3338,7 +3338,7 @@ Rountablers featured on this Round included +David Jackson, +Daniel J. Lewis, +K
 		<category><![CDATA[todd]]></category>
 		<description>Is podcasting making a comeback? Did it ever really falter?
 
-The raw numbers tell us podcast viewers have grown every year since it&#039;s inception in 2004 so why are we increasly hearing that podcasting is back? What&#039;s the difference between now and last year or two years ago?
+The raw numbers tell us podcast viewers have grown every year since its inception in 2004 so why are we increasly hearing that podcasting is back? Whats the difference between now and last year or two years ago?
 
 Find out what the Roundtable thinks is behind articles that claim podcasting is making a comeback.
 
@@ -3359,7 +3359,7 @@ Rountablers featured on this Round included +David Jackson, +Daniel J. Lewis, , 
 &lt;br /&gt;
 Ray Ortega, Daniel J. Lewis,  David Jackson, Rob Greenlee, and Todd Cochrane discuss the idea that podcasting is &quot;back.&quot; &lt;br /&gt;
 &lt;br /&gt;
-What is leading to many recent statements that podcasting is back? The raw numbers tell us podcast viewers have grown every year since it&#039;s inception in 2004 so why now? What&#039;s the difference between now and last year or two years ago?&lt;br /&gt;
+What is leading to many recent statements that podcasting is back? The raw numbers tell us podcast viewers have grown every year since its inception in 2004 so why now? Whats the difference between now and last year or two years ago?&lt;br /&gt;
 &lt;br /&gt;
 Find out what we think is behind articles that claim podcasting is making a comeback. &lt;br /&gt;
 &lt;br /&gt;
@@ -3390,15 +3390,15 @@ Visit www.PodcastersRoundtable.com to watch the video version of this Round.</it
 		<category><![CDATA[storage]]></category>
 		<category><![CDATA[unlimited]]></category>
 		<category><![CDATA[youtube]]></category>
-		<description>If you have a podcast or want to start one you&#039;re going to need a place to host your audio and/or video files. On this Round we&#039;ll be asking, where do you host your podcast media and why?
+		<description>If you have a podcast or want to start one youre going to need a place to host your audio and/or video files. On this Round well be asking, where do you host your podcast media and why?
 
-When choosing where to host your podcast files you have plenty of options (for audio at least). Those options however are not all created equal. There&#039;s both free and paid options and each has it&#039;s advantages (sneak peak, free&#039;s only advantage is in it&#039;s name;)) So how do you decide where to host your files?
+When choosing where to host your podcast files you have plenty of options (for audio at least). Those options however are not all created equal. Theres both free and paid options and each has its advantages (sneak peak, frees only advantage is in its name;)) So how do you decide where to host your files?
 
 
 
 Watch (Ray Ortega), +Daniel J. Lewis +David Jackson +Steve Lee and Chase Nunes talk about the sometimes confusing issue of podcast media storage.
 
-We put together our collective experience as seasoned podcasters to discuss what has worked, what is a fair price and where we&#039;ve failed when choosing media hosting. And of course we&#039;ll dig into the controversial issue of storing your files on a shared server!
+We put together our collective experience as seasoned podcasters to discuss what has worked, what is a fair price and where weve failed when choosing media hosting. And of course well dig into the controversial issue of storing your files on a shared server!
 
 Circle me at gplus.to/rayortega to be notified of future live recordings, to meet other podcasters and share your opinions in the chat! See ya at the next Round!
 
@@ -3415,13 +3415,13 @@ Rountablers featured on this Round included +David Jackson, +Daniel J. Lewis, +S
 		<slash:comments>2</slash:comments>
 		<enclosure url="http://traffic.libsyn.com/thepodcastersstudio/PR015_Podcast_Media_Hosting.mp3" length="35607808" type="audio/mpeg" />
 		<itunes:subtitle>If you have a podcast or want to start one you’re going to need a place to host your audio and/or video files. On this Round we’ll be asking, where do you host your podcast media and why? When choosing where to host your podcast files you have plenty o...</itunes:subtitle>
-		<itunes:summary>If you have a podcast or want to start one you&#039;re going to need a place to host your audio and/or video files. On this Round we&#039;ll be asking, where do you host your podcast media and why?&lt;br /&gt;
+		<itunes:summary>If you have a podcast or want to start one youre going to need a place to host your audio and/or video files. On this Round well be asking, where do you host your podcast media and why?&lt;br /&gt;
 &lt;br /&gt;
-When choosing where to host your podcast files you have plenty of options (for audio at least). Those options however are not all created equal. There&#039;s both free and paid options and each has it&#039;s advantages (sneak peak, free&#039;s only advantage is in it&#039;s name;)) So how do you decide where to host your files?&lt;br /&gt;
+When choosing where to host your podcast files you have plenty of options (for audio at least). Those options however are not all created equal. Theres both free and paid options and each has its advantages (sneak peak, frees only advantage is in its name;)) So how do you decide where to host your files?&lt;br /&gt;
 &lt;br /&gt;
 Watch (Ray Ortega), +Daniel J. Lewis +David Jackson +Steve Lee and Chase Nunes talk about the sometimes confusing issue of podcast media storage.&lt;br /&gt;
 &lt;br /&gt;
-We put together our collective experience as seasoned podcasters to discuss what has worked, what is a fair price and where we&#039;ve failed when choosing media hosting. And of course we&#039;ll dig into the controversial issue of storing your files on a shared server!&lt;br /&gt;
+We put together our collective experience as seasoned podcasters to discuss what has worked, what is a fair price and where weve failed when choosing media hosting. And of course well dig into the controversial issue of storing your files on a shared server!&lt;br /&gt;
 &lt;br /&gt;
 Circle me at gplus.to/rayortega to be notified of future live recordings, to meet other podcasters and share your opinions in the chat! See ya at the next Round!&lt;br /&gt;
 &lt;br /&gt;
@@ -3447,9 +3447,9 @@ Rountablers featured on this Round included +David Jackson, +Daniel J. Lewis, +S
 		<category><![CDATA[podcasting]]></category>
 		<category><![CDATA[promotion]]></category>
 		<category><![CDATA[small]]></category>
-		<description>Can a podcast niche be too small? How do you find an audience in a niche that isn&#039;t very big?
+		<description>Can a podcast niche be too small? How do you find an audience in a niche that isnt very big?
 
-Watch myself (Ray Ortega) along with +Daniel J. Lewis, +Cynthia Sanchez, +Jason Nagy, +Joseph Polk, and +Peter Lamb talk about podcasting to a small niche and how to find your audience when the potential pool of listeners for your topic isn&#039;t that large.</description>
+Watch myself (Ray Ortega) along with +Daniel J. Lewis, +Cynthia Sanchez, +Jason Nagy, +Joseph Polk, and +Peter Lamb talk about podcasting to a small niche and how to find your audience when the potential pool of listeners for your topic isnt that large.</description>
 		<content:encoded><![CDATA[<p><iframe src="https://www.youtube.com/embed/3HmkJsTRhrE" height="360" width="640" allowfullscreen="" frameborder="0"></iframe></p>
 <p>Can a podcast niche be too small? How do you find an audience in a niche that isn&#8217;t very big?</p>
 <p>Watch myself (<a title="The Podcasters' Studio" href="http://thepodcastersstudio.com" target="_blank">Ray Ortega</a>) along with +<a title="The Audacity to Podcast" href="http://theaudacitytopodcast.com" target="_blank">Daniel J. Lewis</a>, +<a title="Oh So Pinteresting" href="http://www.ohsopinteresting.com/" target="_blank">Cynthia Sanchez</a>, +<a title="CreeperCast" href="http://creepercast.com" target="_blank">Jason Nagy</a>, +<a title="Joe Polk website" href="http://mtbcast.com" target="_blank">Joseph Polk</a>, and +<a title="Pete Lamb website" href="http://www.petelamb.com" target="_blank">Peter Lamb</a> talk about podcasting to a small niche and how to find your audience when the potential pool of listeners for your topic isn&#8217;t that large.</p>
@@ -3458,9 +3458,9 @@ Watch myself (Ray Ortega) along with +Daniel J. Lewis, +Cynthia Sanchez, +Jason 
 		<slash:comments>2</slash:comments>
 		<enclosure url="http://traffic.libsyn.com/thepodcastersstudio/PR014_Finding_an_Audience_in_a_Small_Niche.mp3" length="54267338" type="audio/mpeg" />
 		<itunes:subtitle>Can a podcast niche be too small? How do you find an audience in a niche that isn’t very big? Watch myself (Ray Ortega) along with +Daniel J. Lewis, +Cynthia Sanchez, +Jason Nagy, +Joseph Polk, and +Peter Lamb talk about podcasting to a small niche and...</itunes:subtitle>
-		<itunes:summary>Can a podcast niche be too small? How do you find an audience in a niche that isn&#039;t very big?&lt;br /&gt;
+		<itunes:summary>Can a podcast niche be too small? How do you find an audience in a niche that isnt very big?&lt;br /&gt;
 &lt;br /&gt;
-Watch myself (Ray Ortega) along with +Daniel J. Lewis, +Cynthia Sanchez, +Jason Nagy, +Joseph Polk, and +Peter Lamb talk about podcasting to a small niche and how to find your audience when the potential pool of listeners for your topic isn&#039;t that large.&lt;br /&gt;
+Watch myself (Ray Ortega) along with +Daniel J. Lewis, +Cynthia Sanchez, +Jason Nagy, +Joseph Polk, and +Peter Lamb talk about podcasting to a small niche and how to find your audience when the potential pool of listeners for your topic isnt that large.&lt;br /&gt;
 &lt;br /&gt;
 Please visit www.PodcastersRoundtable.com to watch the video archive of this episode along with any relevant links and complete archives.</itunes:summary>
 		<itunes:author>Ray Ortega - Learn how to podcast</itunes:author>
@@ -3485,11 +3485,11 @@ Please visit www.PodcastersRoundtable.com to watch the video archive of this epi
 		<category><![CDATA[reviews]]></category>
 		<description>Ever receive a negative comment regarding your podcast? How did it feel? How did you respond?
 
-Certainly, if you&#039;ve been podcasting for any significant amount of time there&#039;s no doubt that indeed you&#039;ve received a negative iTunes review, a &quot;bad&quot; comment on your website or a disparaging remark on your podcast&#039;s Facebook page. Perhaps it happened after your first episode!
+Certainly, if youve been podcasting for any significant amount of time theres no doubt that indeed youve received a negative iTunes review, a &quot;bad&quot; comment on your website or a disparaging remark on your podcasts Facebook page. Perhaps it happened after your first episode!
 
-As podcasters we put our content and ourselves out into the world for anyone to see, hear and comment on. This inevitability means someone isn&#039;t going to like what you say, how you say it or misinterpret your meaning and share their dislike with the world. And in some cases they might be right.
+As podcasters we put our content and ourselves out into the world for anyone to see, hear and comment on. This inevitability means someone isnt going to like what you say, how you say it or misinterpret your meaning and share their dislike with the world. And in some cases they might be right.
 
-But how do you deal with it? On this Round, myself (Ray Ortega), +Daniel J. Lewis +David Jackson +Max Flight, +Robert Chazz Chute, +Erik Fisher, and +Gary Fawcett discuss the negative feedback we&#039;ve received over our years of podcasting and what we did about it. And trust me, we didn&#039;t always make the right decision.
+But how do you deal with it? On this Round, myself (Ray Ortega), +Daniel J. Lewis +David Jackson +Max Flight, +Robert Chazz Chute, +Erik Fisher, and +Gary Fawcett discuss the negative feedback weve received over our years of podcasting and what we did about it. And trust me, we didnt always make the right decision.
 
 How do you deal with negative comments about your podcast? Share your experiences below in the comments as you watch along.
 
@@ -3511,11 +3511,11 @@ CommentCast - &quot;International iTunes review collector. Shrinking the world o
 		<itunes:subtitle>Ever receive a negative comment regarding your podcast? How did it feel? How did you respond? Certainly, if you’ve been podcasting for any significant amount of time there’s no doubt that indeed you’ve received a negative iTunes review,</itunes:subtitle>
 		<itunes:summary>Ever receive a negative comment regarding your podcast? How did it feel? How did you respond?&lt;br /&gt;
 &lt;br /&gt;
-Certainly, if you&#039;ve been podcasting for any significant amount of time there&#039;s no doubt that indeed you&#039;ve received a negative iTunes review, a &quot;bad&quot; comment on your website or a disparaging remark on your podcast&#039;s Facebook page. Perhaps it happened after your first episode!&lt;br /&gt;
+Certainly, if youve been podcasting for any significant amount of time theres no doubt that indeed youve received a negative iTunes review, a &quot;bad&quot; comment on your website or a disparaging remark on your podcasts Facebook page. Perhaps it happened after your first episode!&lt;br /&gt;
 &lt;br /&gt;
-As podcasters we put our content and ourselves out into the world for anyone to see, hear and comment on. This inevitability means someone isn&#039;t going to like what you say, how you say it or misinterpret your meaning and share their dislike with the world. And in some cases they might be right.&lt;br /&gt;
+As podcasters we put our content and ourselves out into the world for anyone to see, hear and comment on. This inevitability means someone isnt going to like what you say, how you say it or misinterpret your meaning and share their dislike with the world. And in some cases they might be right.&lt;br /&gt;
 &lt;br /&gt;
-But how do you deal with it? On this Round, myself (Ray Ortega), +Daniel J. Lewis +David Jackson +Max Flight, +Robert Chazz Chute, +Erik Fisher, and +Gary Fawcett discuss the negative feedback we&#039;ve received over our years of podcasting and what we did about it. And trust me, we didn&#039;t always make the right decision. &lt;br /&gt;
+But how do you deal with it? On this Round, myself (Ray Ortega), +Daniel J. Lewis +David Jackson +Max Flight, +Robert Chazz Chute, +Erik Fisher, and +Gary Fawcett discuss the negative feedback weve received over our years of podcasting and what we did about it. And trust me, we didnt always make the right decision. &lt;br /&gt;
 &lt;br /&gt;
 How do you deal with negative comments about your podcast? Share your experiences in the comments as you watch along at www.PodcastersRoundtable.com</itunes:summary>
 		<itunes:author>Ray Ortega - Learn how to podcast</itunes:author>
@@ -3545,7 +3545,7 @@ The term podcast has a specific meaning and if you have a show (audio or video) 
 
 But what do you call it? If not a podcast then what? A show, internet broadcast, netcast, or something else. And more importantly, why?
 
-Does the term &quot;podcast&quot; affect the medium&#039;s growth either good or bad? Does it even matter what we call it?
+Does the term &quot;podcast&quot; affect the mediums growth either good or bad? Does it even matter what we call it?
 
 Let me know in the comments what you think of the word &quot;podcast.&quot;
 
@@ -3565,7 +3565,7 @@ Guests for this Round included +David Jackson, +Daniel J. Lewis, +Richard Clevel
 &lt;br /&gt;
 But what do you call it? If not a podcast then what? A show, internet broadcast, netcast, or something else. And more importantly, why?&lt;br /&gt;
 &lt;br /&gt;
-Does the term &quot;podcast&quot; affect the medium&#039;s growth either good or bad? Does it even matter what we call it?&lt;br /&gt;
+Does the term &quot;podcast&quot; affect the mediums growth either good or bad? Does it even matter what we call it?&lt;br /&gt;
 &lt;br /&gt;
 Let me know in the comments what you think of the word &quot;podcast.&quot;&lt;br /&gt;
 &lt;br /&gt;
@@ -3598,9 +3598,9 @@ What gear, software and services would you purchase if you were starting your fi
 
 Find out what experienced podcasters +David Jackson  +Daniel J. Lewis  +Jeffrey Bradbury  and myself (Ray Ortega) would purchase if we were starting our first show and had the knowledge we now possess after years of producing podcasts.
 
-Based on experience in podcast production, we&#039;ll take a mock budget and spend it on what we think are the most valuable items for starting a podcast.
+Based on experience in podcast production, well take a mock budget and spend it on what we think are the most valuable items for starting a podcast.
 
-If you&#039;re starting your first podcast, thinking about starting a podcast or have been podcasting for years, join us in the chat to discuss where you&#039;d put your money.
+If youre starting your first podcast, thinking about starting a podcast or have been podcasting for years, join us in the chat to discuss where youd put your money.
 
 Would you spend most of your budget on a microphone or buy something cheaper and invest in software? Should you skip paid hosting and buy a mixer?
 
@@ -3625,9 +3625,9 @@ View the complete list of all the gear mentioned on this episode including links
 &lt;br /&gt;
 Find out what experienced podcasters +David Jackson  +Daniel J. Lewis  +Jeffrey Bradbury  and myself (Ray Ortega) would purchase if we were starting our first show and had the knowledge we now possess after years of producing podcasts.&lt;br /&gt;
 &lt;br /&gt;
-Based on experience in podcast production, we&#039;ll take a mock budget and spend it on what we think are the most valuable items for starting a podcast. &lt;br /&gt;
+Based on experience in podcast production, well take a mock budget and spend it on what we think are the most valuable items for starting a podcast. &lt;br /&gt;
 &lt;br /&gt;
-If you&#039;re starting your first podcast, thinking about starting a podcast or have been podcasting for years, join us in the chat to discuss where you&#039;d put your money. &lt;br /&gt;
+If youre starting your first podcast, thinking about starting a podcast or have been podcasting for years, join us in the chat to discuss where youd put your money. &lt;br /&gt;
 &lt;br /&gt;
 Would you spend most of your budget on a microphone or buy something cheaper and invest in software? Should you skip paid hosting and buy a mixer?&lt;br /&gt;
 &lt;br /&gt;
@@ -3657,7 +3657,7 @@ Visit www.PodcastersRoundtable.com to view the list of all the gear mentioned on
 
 Watch/listen to +Pat Flynn from the Smart Passive Income blog and podcast along with +Daniel J. Lewis  +David Jackson  and myself (Ray Ortega) discuss the concept of success as it applies to podcasting.
 
-Pat was a very successful blogger (numbers, money, recognition, etc.) before he ever started a podcast. We&#039;ll find out how starting a podcast has increased his own measure of success and learn how each podcaster on the Roundtable defines success in podcasting differently.
+Pat was a very successful blogger (numbers, money, recognition, etc.) before he ever started a podcast. Well find out how starting a podcast has increased his own measure of success and learn how each podcaster on the Roundtable defines success in podcasting differently.
 
  </description>
 		<content:encoded><![CDATA[<p><iframe src="http://www.youtube.com/embed/-8_DMQPIwYs?list=UUPLkRC-rFU_nPNO7aVap7iQ" height="315" width="560" allowfullscreen="" frameborder="0"></iframe><br />
@@ -3674,7 +3674,7 @@ What defines success in podcasting? Is it subscribers, downloads, website traffi
 &lt;br /&gt;
 Watch/listen to +Pat Flynn  from the Smart Passive Income blog and podcast along with +Daniel J. Lewis  +David Jackson  and myself (Ray Ortega) discuss the concept of success as it applies to podcasting.&lt;br /&gt;
 &lt;br /&gt;
-Pat was a very successful blogger (numbers, money, recognition, etc.) before he ever started a podcast. We&#039;ll find out how starting a podcast has increased his own measure of success and learn how each podcaster on the Roundtable defines success in podcasting differently.&lt;br /&gt;
+Pat was a very successful blogger (numbers, money, recognition, etc.) before he ever started a podcast. Well find out how starting a podcast has increased his own measure of success and learn how each podcaster on the Roundtable defines success in podcasting differently.&lt;br /&gt;
 &lt;br /&gt;
 Visit www.PodcastersRoundtable.com for complete shownotes including the video archive of this episode.</itunes:summary>
 		<itunes:author>Ray Ortega - Learn how to podcast</itunes:author>
@@ -3693,13 +3693,13 @@ Visit www.PodcastersRoundtable.com for complete shownotes including the video ar
 		<category><![CDATA[another]]></category>
 		<category><![CDATA[show]]></category>
 		<category><![CDATA[start]]></category>
-		<description>How do you know when it&#039;s time to add another podcast to your lineup?
+		<description>How do you know when its time to add another podcast to your lineup?
 
 We discuss some of the things to consider when thinking about starting another show as well as our opinions about when is the right time for adding a new podcast.
 
-You&#039;ll hear from experienced podcaster +Daniel J. Lewis about having multiple podcasts, podcaster +Mike Howard who has one show but has considered starting another, and +Chris Christensen, +Jim Collison and myself who all run successful multi-podcast brands.
+Youll hear from experienced podcaster +Daniel J. Lewis about having multiple podcasts, podcaster +Mike Howard who has one show but has considered starting another, and +Chris Christensen, +Jim Collison and myself who all run successful multi-podcast brands.
 
-We&#039;ll also find out when starting a new podcast was a bad idea (the failures), the concerns a podcaster might have about starting another show, and feedback from the live audience about the good and bad of adding more than one show to your podcast workflow.</description>
+Well also find out when starting a new podcast was a bad idea (the failures), the concerns a podcaster might have about starting another show, and feedback from the live audience about the good and bad of adding more than one show to your podcast workflow.</description>
 		<content:encoded><![CDATA[<p><iframe src="https://www.youtube.com/embed/H_YHVKRg8oQ" height="315" width="560" allowfullscreen="" frameborder="0"></iframe><br />
 How do you know when it&#8217;s time to add another podcast to your lineup?</p>
 <p>We discuss some of the things to consider when thinking about starting another show as well as our opinions about when is the right time for adding a new podcast.</p>
@@ -3710,13 +3710,13 @@ How do you know when it&#8217;s time to add another podcast to your lineup?</p>
 		<slash:comments>0</slash:comments>
 		<enclosure url="http://traffic.libsyn.com/thepodcastersstudio/PR009_-_When_to_Start_Another_Podcast_.mp3" length="31162109" type="audio/mpeg" />
 		<itunes:subtitle>How do you know when it’s time to add another podcast to your lineup? We discuss some of the things to consider when thinking about starting another show as well as our opinions about when is the right time for adding a new podcast.</itunes:subtitle>
-		<itunes:summary>How do you know when it&#039;s time to add another podcast to your lineup?&lt;br /&gt;
+		<itunes:summary>How do you know when its time to add another podcast to your lineup?&lt;br /&gt;
 &lt;br /&gt;
 We discuss some of the things to consider when thinking about starting another show as well as our opinions about when is the right time for adding a new podcast.&lt;br /&gt;
 &lt;br /&gt;
-You&#039;ll hear from experienced podcaster +Daniel J. Lewis about having multiple podcasts, podcaster +Mike Howard who has one show but has considered starting another, and +Chris Christensen and +Jim Collison who both run successful multi-podcast brands.&lt;br /&gt;
+Youll hear from experienced podcaster +Daniel J. Lewis about having multiple podcasts, podcaster +Mike Howard who has one show but has considered starting another, and +Chris Christensen and +Jim Collison who both run successful multi-podcast brands.&lt;br /&gt;
 &lt;br /&gt;
-We&#039;ll also find out when starting a new podcast was a bad idea (the failures), the concerns a podcaster might have about starting another show, and feedback from the live audience about the good and bad of adding more than one show to your podcast workflow.&lt;br /&gt;
+Well also find out when starting a new podcast was a bad idea (the failures), the concerns a podcaster might have about starting another show, and feedback from the live audience about the good and bad of adding more than one show to your podcast workflow.&lt;br /&gt;
 &lt;br /&gt;
 Please visit http://PodcastersRoundtable.com to view the archives and complete shownotes.</itunes:summary>
 		<itunes:author>Ray Ortega - Learn how to podcast</itunes:author>
@@ -3737,9 +3737,9 @@ Please visit http://PodcastersRoundtable.com to view the archives and complete s
 
 Whether someone subscribes to your show or listens only once, what obligation do you feel to that person?
 
-Do you feel like you should always bring your best content, be well organized, entertaining or never miss an episode? Perhaps you don&#039;t owe them anything at all?
+Do you feel like you should always bring your best content, be well organized, entertaining or never miss an episode? Perhaps you dont owe them anything at all?
 
-Join +David Jackson, +Daniel J. Lewis, +Allan Newsome, +Jeffrey Powers and Ray Ortega as we discuss a podcaster&#039;s obligation to their audience.</description>
+Join +David Jackson, +Daniel J. Lewis, +Allan Newsome, +Jeffrey Powers and Ray Ortega as we discuss a podcasters obligation to their audience.</description>
 		<content:encoded><![CDATA[<p><iframe src="http://www.youtube.com/embed/TrYHhy7bwE0?rel=0" height="315" width="560" allowfullscreen="" frameborder="0"></iframe><br />
 As a podcaster, what do you owe your audience?</p>
 <p>Whether someone subscribes to your show or listens only once, what obligation do you feel to that person?</p>
@@ -3754,9 +3754,9 @@ As a podcaster, what do you owe your audience?</p>
 &lt;br /&gt;
 Whether someone subscribes to your show or listens only once, what obligation do you feel to that person? &lt;br /&gt;
 &lt;br /&gt;
-Do you feel like you should always bring your best content, be well organized, entertaining or never miss an episode? Perhaps you don&#039;t owe them anything at all?&lt;br /&gt;
+Do you feel like you should always bring your best content, be well organized, entertaining or never miss an episode? Perhaps you dont owe them anything at all?&lt;br /&gt;
 &lt;br /&gt;
-Join +David Jackson, +Daniel J. Lewis, +Allan Newsome, +Jeffrey Powers and myself as we discuss a podcaster&#039;s obligation to their audience.&lt;br /&gt;
+Join +David Jackson, +Daniel J. Lewis, +Allan Newsome, +Jeffrey Powers and myself as we discuss a podcasters obligation to their audience.&lt;br /&gt;
 &lt;br /&gt;
 Visit www.PodcastersRoundtable.com for complete shownotes and links.</itunes:summary>
 		<itunes:author>Ray Ortega - Learn how to podcast</itunes:author>
@@ -3781,7 +3781,7 @@ Visit www.PodcastersRoundtable.com for complete shownotes and links.</itunes:sum
 
 Have you ever been overwhelmed trying to keep up? Has the need to always be promoting your show in order to grow left you feeling burnt out on podcasting?
 
-We&#039;ll be discussing podcast promotion and how much is too much? How do you know if what you&#039;re doing is actually working and is it really worth your time?
+Well be discussing podcast promotion and how much is too much? How do you know if what youre doing is actually working and is it really worth your time?
 
 The discussion will be focused less on which new social platform is best for podcast promotion and instead will take a deeper look at why or why not to promote, how much and is it necessary to always jump on the next big thing (ex: Pinterest)?
 
@@ -3835,7 +3835,7 @@ Links mentioned:<br /><br />
 
 How much do you share with podcasts in your niche? Do you cross promote their shows? Do you have them as guests on your show or even co-host shows together?
 
-Is it possible to share audiences? Do you fear losing your audience to another show in your niche? What steps do you take to prevent this from happening? Do you think it&#039;s even necessary to compete or can working together actually benefit you?
+Is it possible to share audiences? Do you fear losing your audience to another show in your niche? What steps do you take to prevent this from happening? Do you think its even necessary to compete or can working together actually benefit you?
 
 Are there any situations where it might actually be better to be a little competitive or even actively working against another show?
 
@@ -3855,7 +3855,7 @@ We discuss the concept of &#8220;competition&#8221; as is applies to podcasters 
 &lt;br /&gt;
 How much do you share with podcasts in your niche? Do you cross promote their shows? Do you have them as guests on your show or even co-host shows together?&lt;br /&gt;
 &lt;br /&gt;
-Is it possible to share audiences? Do you fear losing your audience to another show in your niche? What steps do you take to prevent this from happening? Do you think it&#039;s even necessary to compete or can working together actually benefit you?&lt;br /&gt;
+Is it possible to share audiences? Do you fear losing your audience to another show in your niche? What steps do you take to prevent this from happening? Do you think its even necessary to compete or can working together actually benefit you?&lt;br /&gt;
 &lt;br /&gt;
 Are there any situations where it might actually be better to be a little competitive or even actively working against another show?&lt;br /&gt;
 &lt;br /&gt;
@@ -3883,7 +3883,7 @@ Visit www.PodcastersRoundtable.com for the complete shownotes and extras.</itune
 		<category><![CDATA[pet]]></category>
 		<category><![CDATA[podcasting]]></category>
 		<category><![CDATA[video]]></category>
-		<description>On this Round, I talk to six podcasters (the largest Roundtable to date) about their podcasting pet peeves. Those things they see other podcasters doing that frustrate them. We also talk about things we&#039;ve done wrong with our own podcasts and how we fixed those errors.
+		<description>On this Round, I talk to six podcasters (the largest Roundtable to date) about their podcasting pet peeves. Those things they see other podcasters doing that frustrate them. We also talk about things weve done wrong with our own podcasts and how we fixed those errors.
 
 Learn about the most common mistakes we see podcasters making on a daily basis and how to avoid those in your own show.
 
@@ -3897,7 +3897,7 @@ Joining me for this Round was Daniel J. Lewis, Nick Seuberling, Daniel M. Clark,
 		<slash:comments>34</slash:comments>
 		<enclosure url="http://traffic.libsyn.com/thepodcastersstudio/PR005.mp3" length="33284143" type="audio/mpeg" />
 		<itunes:subtitle>On this Round, I talk to six podcasters (the largest Roundtable to date) about their podcasting pet peeves. Those things they see other podcasters doing that frustrate them. We also talk about things we’ve done wrong with our own podcasts and how we fi...</itunes:subtitle>
-		<itunes:summary>On this Round, I talk to six podcasters (the largest Roundtable to date) about their podcasting pet peeves. Those things they see other podcasters doing that frustrate them. We also talk about things we&#039;ve done wrong with our own podcasts and how we fixed those errors.</itunes:summary>
+		<itunes:summary>On this Round, I talk to six podcasters (the largest Roundtable to date) about their podcasting pet peeves. Those things they see other podcasters doing that frustrate them. We also talk about things weve done wrong with our own podcasts and how we fixed those errors.</itunes:summary>
 		<itunes:author>Ray Ortega - Learn how to podcast</itunes:author>
 		<itunes:image href="http://podcastersroundtable.com/wp-content/uploads/2012/07/Podcasters_Roundtable_ITUNES_image1400x1400.jpg" />
 		<itunes:duration>1:09:05</itunes:duration>
@@ -3922,9 +3922,9 @@ Joining me for this Round was Daniel J. Lewis, Nick Seuberling, Daniel M. Clark,
 		<category><![CDATA[rid]]></category>
 		<category><![CDATA[rss]]></category>
 		<category><![CDATA[shutting]]></category>
-		<description>Over the last year several changes have been made to Feedburner including twitter feed shut downs, deprecation of API&#039;s, the loss of the .jp domain and a failure of the statistics system.
+		<description>Over the last year several changes have been made to Feedburner including twitter feed shut downs, deprecation of APIs, the loss of the .jp domain and a failure of the statistics system.
 
-All of this led to a perfect storm of fear that the core service was also shutting down. On this Round we discuss the facts and fiction of what&#039;s going on with Feedburner and ways to move forward using the service or how to get rid of it all together.
+All of this led to a perfect storm of fear that the core service was also shutting down. On this Round we discuss the facts and fiction of whats going on with Feedburner and ways to move forward using the service or how to get rid of it all together.
 
 Panelist on this Round:
 
@@ -3947,9 +3947,9 @@ Panelist on this Round:
 		<slash:comments>6</slash:comments>
 		<enclosure url="http://traffic.libsyn.com/thepodcastersstudio/PR004.mp3" length="29048646" type="audio/mpeg" />
 		<itunes:subtitle>Over the last year several changes have been made to Feedburner including twitter feed shut downs, deprecation of API’s, the loss of the .jp domain and a failure of the statistics system. All of this led to a perfect storm of fear that the core service...</itunes:subtitle>
-		<itunes:summary>Over the last year several changes have been made to Feedburner including twitter feed shut downs, deprecation of API&#039;s, the loss of the .jp domain and a failure of the statistics system. &lt;br /&gt;
+		<itunes:summary>Over the last year several changes have been made to Feedburner including twitter feed shut downs, deprecation of APIs, the loss of the .jp domain and a failure of the statistics system. &lt;br /&gt;
 &lt;br /&gt;
-All of this led to a perfect storm of fear that the core service was also shutting down. On this Round we discuss the facts and fiction of what&#039;s going on with Feedburner and ways to move forward using the service or how to get rid of it all together.</itunes:summary>
+All of this led to a perfect storm of fear that the core service was also shutting down. On this Round we discuss the facts and fiction of whats going on with Feedburner and ways to move forward using the service or how to get rid of it all together.</itunes:summary>
 		<itunes:author>Ray Ortega - Learn how to podcast</itunes:author>
 		<itunes:image href="http://podcastersroundtable.com/wp-content/uploads/2012/07/Podcasters_Roundtable_ITUNES_image1400x1400.jpg" />
 		<itunes:duration>1:00:09</itunes:duration>
@@ -3976,7 +3976,7 @@ All of this led to a perfect storm of fear that the core service was also shutti
 		<category><![CDATA[roundtable]]></category>
 		<category><![CDATA[steven]]></category>
 		<category><![CDATA[video]]></category>
-		<description>Rob Greenlee, Steven Lee, Daniel J. Lewis and Ray Ortega discuss where podcasting has been, is now and where it&#039;s headed in the future.</description>
+		<description>Rob Greenlee, Steven Lee, Daniel J. Lewis and Ray Ortega discuss where podcasting has been, is now and where its headed in the future.</description>
 		<content:encoded><![CDATA[<p><iframe src="http://www.youtube.com/embed/njWtCvPDsbI?rel=0" height="326" width="580" frameborder="0"></iframe></p>
 <p><a title="Rob Greenlee's website" href="http://www.robgreenlee.com/" target="_blank">Rob Greenlee</a>, <a title="Netcast Studio" href="http://netcaststudio.com" target="_blank">Steven Lee</a>, <a title="The Audacity to Podcast" href="http://theaudacitytopodcast.com" target="_blank">Daniel J. Lewis</a> and <a title="The Podcasters' Studio" href="http://thepodcastersstudio.com" target="_blank">Ray Ortega</a> discuss where podcasting has been, is now and where it&#8217;s headed in the future.</p>
 ]]></content:encoded>
@@ -3984,9 +3984,9 @@ All of this led to a perfect storm of fear that the core service was also shutti
 		<slash:comments>10</slash:comments>
 		<enclosure url="http://traffic.libsyn.com/thepodcastersstudio/PR003.mp3" length="34881331" type="audio/mpeg" />
 		<itunes:subtitle>Rob Greenlee, Steven Lee, Daniel J. Lewis and Ray Ortega discuss where podcasting has been, is now and where it’s headed in the future.</itunes:subtitle>
-		<itunes:summary>Discussing the future of podcasting on the Podcasters&#039; Roundtable with Rob Greenlee, Steven Lee, Daniel J. Lewis and Ray Ortega.&lt;br /&gt;
+		<itunes:summary>Discussing the future of podcasting on the Podcasters Roundtable with Rob Greenlee, Steven Lee, Daniel J. Lewis and Ray Ortega.&lt;br /&gt;
 &lt;br /&gt;
-Visit www.PodcastersRoundtable.com for complete show notes and additional content related to all episodes of Podcasters&#039; Roundtable.</itunes:summary>
+Visit www.PodcastersRoundtable.com for complete show notes and additional content related to all episodes of Podcasters Roundtable.</itunes:summary>
 		<itunes:author>Ray Ortega - Learn how to podcast</itunes:author>
 		<itunes:image href="http://podcastersroundtable.com/wp-content/uploads/2012/07/Podcasters_Roundtable_ITUNES_image1400x1400.jpg" />
 		<itunes:duration>1:12:18</itunes:duration>
@@ -4009,7 +4009,7 @@ Visit www.PodcastersRoundtable.com for complete show notes and additional conten
 		<category><![CDATA[post]]></category>
 		<category><![CDATA[processing]]></category>
 		<category><![CDATA[sweetening]]></category>
-		<description>A live discussion about processing your podcast&#039;s audio with hardware and/or software.
+		<description>A live discussion about processing your podcasts audio with hardware and/or software.
 
 We discuss if this is a necessary step or just something audiophiles enjoy.
 
@@ -4023,7 +4023,7 @@ A live discussion about processing your podcast&#8217;s audio with hardware and/
 		<slash:comments>15</slash:comments>
 		<enclosure url="http://traffic.libsyn.com/thepodcastersstudio/PR002.mp3" length="27541543" type="audio/mpeg" />
 		<itunes:subtitle>A live discussion about processing your podcast’s audio with hardware and/or software. We discuss if this is a necessary step or just something audiophiles enjoy. Roundtable guests for round two: David Jackson, Mike Phillips,</itunes:subtitle>
-		<itunes:summary>A live discussion about processing your podcast&#039;s audio with hardware and/or software. &lt;br /&gt;
+		<itunes:summary>A live discussion about processing your podcasts audio with hardware and/or software. &lt;br /&gt;
 &lt;br /&gt;
 We discuss if this is a necessary step or just something audiophiles enjoy. &lt;br /&gt;
 &lt;br /&gt;
@@ -4057,7 +4057,7 @@ Roundtable guests for round two: David Jackson, Mike Phillips, Adam Tinkoff and 
 		<category><![CDATA[roundtable]]></category>
 		<description>How much of your podcast do you own?
 
-Join Ray Ortega, Dave Jackson, Daniel J. Lewis and Mike Dell to discuss taking as much control over your show as possible whether you&#039;re using WordPress, Libsyn, Feedburner, or any one of the many third party options for building and hosting your podcast.</description>
+Join Ray Ortega, Dave Jackson, Daniel J. Lewis and Mike Dell to discuss taking as much control over your show as possible whether youre using WordPress, Libsyn, Feedburner, or any one of the many third party options for building and hosting your podcast.</description>
 		<content:encoded><![CDATA[<p><iframe src="http://www.youtube.com/embed/yyPsAxAyJS0?rel=0" width="580" height="326" frameborder="0" allowfullscreen="allowfullscreen"></iframe><br />
 How much of your podcast do you own?</p>
 <p>Join Ray Ortega, Dave Jackson, Daniel J. Lewis and Mike Dell to discuss taking as much control over your show as possible whether you&#8217;re using WordPress, Libsyn, Feedburner, or any one of the many third party options for building and hosting your podcast.</p>
@@ -4066,7 +4066,7 @@ How much of your podcast do you own?</p>
 		<slash:comments>2</slash:comments>
 		<enclosure url="http://traffic.libsyn.com/thepodcastersstudio/PR001.mp3" length="38668856" type="audio/mpeg" />
 		<itunes:subtitle>How much of your podcast do you own? Join Ray Ortega, Dave Jackson, Daniel J. Lewis and Mike Dell to discuss taking as much control over your show as possible whether you’re using WordPress, Libsyn, Feedburner,</itunes:subtitle>
-		<itunes:summary>How much of your podcast do you own? We discuss gaining as much control over your show as possible whether you&#039;re using WordPress, Libsyn, Feedburner, or any one of many third party options for building and hosting your podcast. &lt;br /&gt;
+		<itunes:summary>How much of your podcast do you own? We discuss gaining as much control over your show as possible whether youre using WordPress, Libsyn, Feedburner, or any one of many third party options for building and hosting your podcast. &lt;br /&gt;
 &lt;br /&gt;
 Visit www.podcastersroundtable.com for the video archive and complete show notes.</itunes:summary>
 		<itunes:author>Ray Ortega - Learn how to podcast</itunes:author>

@@ -11,7 +11,7 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
 xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0"
 >
 <channel>
-	<title>Podcasters&#039; Roundtable - Podcasters Discussing Podcasting</title>
+	<title>Podcasters Roundtable - Podcasters Discussing Podcasting</title>
 	<atom:link href="http://podcastersroundtable.com/feed/podcast/" rel="self" type="application/rss+xml" />
 	<link>http://podcastersroundtable.com</link>
 	<description>Podcasters talking about issues that affect podcast producers. A podcast about podcasting.</description>
@@ -22,7 +22,7 @@ xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0"
 	
 <!-- podcast_generator="Blubrry PowerPress/6.3.3" mode="advanced" -->
 	<itunes:new-feed-url>http://podcastersroundtable.com/feed/podcast/</itunes:new-feed-url>
-	<itunes:summary>Podcasters&#039; Roundtable is a rotating panel of podcasters who debate issues facing podcasters and podcasting as a media format. Each Roundtable features a new podcaster from the community of listeners to talk less about the how-to and more about the subjective issues facing podcast producers. This is the audio only feed taken from the originally aired live Google Hangout On-Air.</itunes:summary>
+	<itunes:summary>Podcasters Roundtable is a rotating panel of podcasters who debate issues facing podcasters and podcasting as a media format. Each Roundtable features a new podcaster from the community of listeners to talk less about the how-to and more about the subjective issues facing podcast producers. This is the audio only feed taken from the originally aired live Google Hangout On-Air.</itunes:summary>
 	<itunes:author>Ray Ortega - Learn how to podcast</itunes:author>
 	<itunes:image href="http://podcastersroundtable.com/wp-content/uploads/2012/07/Podcasters_Roundtable_ITUNES_image1400x1400.jpg" />
 	<itunes:owner>
@@ -32,11 +32,6 @@ xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0"
 	<managingEditor>Ray@podcastersroundtable.com (Ray Ortega - Learn how to podcast)</managingEditor>
 	<copyright>Ray Ortega 2015</copyright>
 	<itunes:subtitle>Podcasters debating the issues that affect podcast producers.</itunes:subtitle>
-	<image>
-		<title>Podcasters&#039; Roundtable - Podcasters Discussing Podcasting</title>
-		<url>http://podcastersroundtable.com/wp-content/uploads/2012/07/Podcasters_Roundtable_ITUNES_image1400x1400.jpg</url>
-		<link>http://podcastersroundtable.com</link>
-	</image>
 	<itunes:category text="Technology">
 		<itunes:category text="Podcasting" />
 	</itunes:category>
@@ -44,13 +39,13 @@ xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0"
 		<itunes:category text="Training" />
 	</itunes:category>
 	<googleplay:email>ray@podcastersroundtable.com</googleplay:email>
-	<googleplay:description>Podcasters&#039; Roundtable is a rotating panel of podcasters who discuss the issues that podcast producers face on a daily basis. 
+	<googleplay:description>Podcasters Roundtable is a rotating panel of podcasters who discuss the issues that podcast producers face on a daily basis. 
 
-Each Roundtable features a new podcaster from the podcasting community (hopefully that&#039;s you!) to share their experience as a podcast producer who is looking to better their show and/or grow the medium of podcasting. 
+Each Roundtable features a new podcaster from the podcasting community (hopefully thats you!) to share their experience as a podcast producer who is looking to better their show and/or grow the medium of podcasting. 
 
 We focus on one specific topic related to podcasters and discuss how we all deal with that topic in our own productions. 
 
-Podcasters&#039; Roundtable is recorded live via Google Hangouts On-Air and specially produced for delivery as an audio podcast. </googleplay:description>
+Podcasters Roundtable is recorded live via Google Hangouts On-Air and specially produced for delivery as an audio podcast. </googleplay:description>
 	<googleplay:category text="Technology" />
 	<rawvoice:rating>TV-G</rawvoice:rating>
 	<rawvoice:location>California</rawvoice:location>
@@ -71,15 +66,15 @@ Podcasters&#039; Roundtable is recorded live via Google Hangouts On-Air and spec
 		<category><![CDATA[work life balance]]></category>
 		<description>For most podcasters, recording is what happens with whatever time is left after work and family. This can be a big challenge especially for the long haul. How do you fit podcasting into your life?
 
-Join Ray Ortega, +Daniel J. Lewis +Dave Jackson, and +Emily Peck Prokop to discuss balancing the demands of podcasting with all of life&#039;s other responsibilities.
+Join Ray Ortega, +Daniel J. Lewis +Dave Jackson, and +Emily Peck Prokop to discuss balancing the demands of podcasting with all of lifes other responsibilities.
 
 You can subscribe to the RSS mailing list (http://eepurl.com/GnBwr) to get new Rounds delivered to your inbox automatically.
 
-Sign up to appear on a future Podcasters&#039; Roundtable!
+Sign up to appear on a future Podcasters Roundtable!
 
 
-Thanks and I can&#039;t wait to see you on a future Roundtable!
-Subscribe to Podcasters&#039; Roundtable</description>
+Thanks and I cant wait to see you on a future Roundtable!
+Subscribe to Podcasters Roundtable</description>
 		<content:encoded><![CDATA[<p><iframe src="https://www.youtube.com/embed/2PLkouUjxsg?rel=0" width="720" height="405" frameborder="0" allowfullscreen="allowfullscreen"></iframe></p>
 <div class="Ct">
 <p>For most podcasters, recording is what happens with whatever time is left after work and family. This can be a big challenge especially for the long haul. How do you fit podcasting into your life?</p>
