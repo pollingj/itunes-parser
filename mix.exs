@@ -40,7 +40,7 @@ defmodule ITunesParser.Mixfile do
     [
       {:mix_test_watch, "~> 0.2", only: :test},
       {:mock, "~> 0.1.1", only: :test},
-      {:timex, "~> 2.1.4"}
+      {:timex, "~> 2.2.1"}
     ]
   end
 end
